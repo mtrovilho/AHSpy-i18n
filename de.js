@@ -19,7 +19,7 @@
 	"Show price per item": "Preis pro Stück anzeigen",
 	"Hide auctions with no buyout price": "Auktionen ohne Sofortkauf verstecken",
 	"World of Warcraft&reg; and Blizzard Entertainment are all trademarks or registered trademarks of Blizzard Entertainment in the United States and/or other countries.": "World of Warcraft&reg; und Blizzard Entertainment sind Markenzeichen oder eingetragene Markennamen von Blizzard Entertainment in den Vereinigten Staaten und/oder anderen Ländern.",
-	"This site is in no way associated with or endorsed by Blizzard Entertainment&reg;.": "Diese Seite ist keinster Weise verbunden mit oder unterstützt durch Blizzard Entertainment&reg;.",
+	"This site is in no way associated with or endorsed by Blizzard Entertainment&reg;.": "Diese Seite ist in keinster Weise verbunden mit oder unterstützt durch Blizzard Entertainment&reg;.",
 	"Please choose a realm": "Bitte wähle einen Server",
 	"EU Realms": "EU-Server",
 	"US Realms": "US-Server"
