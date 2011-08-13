@@ -1,4 +1,4 @@
-Help us translate (or spellcheck) [AHSpy](http://www.ahspy.com) to other locales!
+## Help us translate (or spellcheck) [AHSpy](http://www.ahspy.com) to other locales!
 
 Simply grab any of the files included and change the right part of each line of text you see. Here's an example:
 
@@ -13,3 +13,11 @@ Would become this in the french file (fr.js):
 Please try to be careful not to break anything, when possible. Also, be descriptive in your pull requests.
 
 Thanks!
+
+---
+
+## To-do
+
+- Add front page text
+- Add all strings from the site javascript files
+- Remove some strings and replace them with keywords
