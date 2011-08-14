@@ -22,5 +22,8 @@
 	"This site is in no way associated with or endorsed by Blizzard Entertainment&reg;.": "This site is in no way associated with or endorsed by Blizzard Entertainment&reg;.",
 	"Please choose a realm": "Please choose a realm",
 	"EU Realms": "EU Realms",
-	"US Realms": "US Realms"
+	"US Realms": "US Realms",
+	"Parlez-vous AHSpy?": "Parlez-vous AHSpy?",
+	"What is AHSpy?": "What is AHSpy?",
+	"AHSpy is an awesome new tool that let's you see World of Warcraft auctions and item pricing information in real time. Not only is AHSpy incredibly easy to use, it will also allow you to see the value of any actionable item in the last 30 days in any realm/faction. You will also be able to see the auction history of any seller. And because we get our data directly from Battle.Net and not from user uploads, we know that our stats are as exact as they can be.": "AHSpy is an awesome new tool that let's you see World of Warcraft auctions and item pricing information in real time. Not only is AHSpy incredibly easy to use, it will also allow you to see the value of any actionable item in the last 30 days in any realm/faction. You will also be able to see the auction history of any seller. And because we get our data directly from Battle.Net and not from user uploads, we know that our stats are as exact as they can be."
 }
