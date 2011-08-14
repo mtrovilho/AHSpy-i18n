@@ -32,5 +32,6 @@
 		"one": "%s item found",
 		"other": "%s items found"
 	},
-	"Item name": "Item name"
+	"Item name": "Item name",
+	"We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete.": "We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete."
 }

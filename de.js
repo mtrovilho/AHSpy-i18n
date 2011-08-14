@@ -25,5 +25,13 @@
 	"US Realms": "US-Server",
 	"Parlez-vous AHSpy?": "Parlez-vous AHSpy?",
 	"What is AHSpy?": "What is AHSpy?",
-	"AHSpy is an awesome new tool that let's you see World of Warcraft auctions and item pricing information in real time. Not only is AHSpy incredibly easy to use, it will also allow you to see the value of any actionable item in the last 30 days in any realm/faction. You will also be able to see the auction history of any seller. And because we get our data directly from Battle.Net and not from user uploads, we know that our stats are as exact as they can be.": "AHSpy is an awesome new tool that let's you see World of Warcraft auctions and item pricing information in real time. Not only is AHSpy incredibly easy to use, it will also allow you to see the value of any actionable item in the last 30 days in any realm/faction. You will also be able to see the auction history of any seller. And because we get our data directly from Battle.Net and not from user uploads, we know that our stats are as exact as they can be."
+	"AHSpy is an awesome new tool that let's you see World of Warcraft auctions and item pricing information in real time. Not only is AHSpy incredibly easy to use, it will also allow you to see the value of any actionable item in the last 30 days in any realm/faction. You will also be able to see the auction history of any seller. And because we get our data directly from Battle.Net and not from user uploads, we know that our stats are as exact as they can be.": "AHSpy is an awesome new tool that let's you see World of Warcraft auctions and item pricing information in real time. Not only is AHSpy incredibly easy to use, it will also allow you to see the value of any actionable item in the last 30 days in any realm/faction. You will also be able to see the auction history of any seller. And because we get our data directly from Battle.Net and not from user uploads, we know that our stats are as exact as they can be.",
+	"Realm": "Realm",
+	"We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete.": "We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete.",
+	"Search results for \"%s\"": "Search results for \"%s\"",
+	"%s item found": {
+		"one": "%s item found",
+		"other": "%s items found"
+	},
+	"Item name": "Item name"
 }
