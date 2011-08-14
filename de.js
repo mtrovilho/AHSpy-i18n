@@ -24,14 +24,14 @@
 	"EU Realms": "EU-Server",
 	"US Realms": "US-Server",
 	"Parlez-vous AHSpy?": "Parlez-vous AHSpy?",
-	"What is AHSpy?": "What is AHSpy?",
-	"AHSpy is an awesome new tool that let's you see World of Warcraft auctions and item pricing information in real time. Not only is AHSpy incredibly easy to use, it will also allow you to see the value of any actionable item in the last 30 days in any realm/faction. You will also be able to see the auction history of any seller. And because we get our data directly from Battle.Net and not from user uploads, we know that our stats are as exact as they can be.": "AHSpy is an awesome new tool that let's you see World of Warcraft auctions and item pricing information in real time. Not only is AHSpy incredibly easy to use, it will also allow you to see the value of any actionable item in the last 30 days in any realm/faction. You will also be able to see the auction history of any seller. And because we get our data directly from Battle.Net and not from user uploads, we know that our stats are as exact as they can be.",
-	"Realm": "Realm",
-	"We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete.": "We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete.",
-	"Search results for \"%s\"": "Search results for \"%s\"",
+	"What is AHSpy?": "Was ist AHSpy?",
+	"AHSpy is an awesome new tool that let's you see World of Warcraft auctions and item pricing information in real time. Not only is AHSpy incredibly easy to use, it will also allow you to see the value of any actionable item in the last 30 days in any realm/faction. You will also be able to see the auction history of any seller. And because we get our data directly from Battle.Net and not from user uploads, we know that our stats are as exact as they can be.": "AHSpy ist ein großartiges neues Projekt, mit dem du World-of-Warcraft-Auktionen und Gegenstandspreise in Echtzeit siehst. AHSpy ist nicht nur unglaublich einfach zu bedienen, es zeigt dir auch den Preis von jedem beliebigen verkäuflichen Gegenstand auf jedem Server und von jeder Fraktion der letzten 30 Tage an. Du kannst dir außerdem alle früheren Auktionen eines Verkäufers anzeigen lassen. Und weil wir unsere Daten direkt aus dem Battle.net bekommen und nicht von Spielern, sind unsere Statistiken so genau wie es nur geht.",
+	"Realm": "Server",
+	"We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete.": "Wir importieren derzeit die Auktionen aus unerer alten Datenbank in die neue. Die Preisdiagramme einiger Gegenstände sind unter Umständen leer oder unvollständig.",
+	"Search results for \"%s\"": "Suchergebnisse für \"%s\"",
 	"%s item found": {
-		"one": "%s item found",
-		"other": "%s items found"
+		"one": "%s Gegenstand gefunden",
+		"other": "%s Gegenstände gefunden"
 	},
-	"Item name": "Item name"
+	"Item name": "Gegenstandsname"
 }
