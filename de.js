@@ -41,5 +41,8 @@
 	"Use AHSpy in your language! Simply use the appropriate subdomain and you should be all set!": "Benutz AHSpy in deiner Sprache! Besuch einfach die passende Subdomain und los geht's!",
 	"Comments powered by": "Kommentarsystem von",
 	"No item found using your search criteria.": "Kein Gegenstand entspricht deinen Suchkriterien.",
-	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "Der Gegenstand existiert entweder nicht, er kann nicht gehandelt werden oder wir haben ihn einfach noch nie gesehen."
+	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "Der Gegenstand existiert entweder nicht, er kann nicht gehandelt werden oder wir haben ihn einfach noch nie gesehen.",
+	"Item #%s does not exist in our database or is invalid.": "Item #%s does not exist in our database or is invalid.",
+	"Realm %s (%s) does not exist in our database or is invalid.": "Realm %s (%s) does not exist in our database or is invalid.",
+	"If you believe that this is an error, please let us know!": "If you believe that this is an error, please let us know!"
 }

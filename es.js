@@ -41,5 +41,8 @@
 	"And of course, the AHSpy [Facebook page](https://www.facebook.com/pages/AHSpy/174665455926869) and [Twitter feed](http://twitter.com/#!/ahspy) are two great ways to be notified as soon as we add new features.": "And of course, the AHSpy [Facebook page](https://www.facebook.com/pages/AHSpy/174665455926869) and [Twitter feed](http://twitter.com/#!/ahspy) are two great ways to be notified as soon as we add new features.",
 	"Comments powered by": "Comments powered by",
 	"No item found using your search criteria.": "No item found using your search criteria.",
-	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet."
+	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.",
+	"Item #%s does not exist in our database or is invalid.": "Item #%s does not exist in our database or is invalid.",
+	"Realm %s (%s) does not exist in our database or is invalid.": "Realm %s (%s) does not exist in our database or is invalid.",
+	"If you believe that this is an error, please let us know!": "If you believe that this is an error, please let us know!"
 }
