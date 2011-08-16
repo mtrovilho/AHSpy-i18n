@@ -40,6 +40,6 @@
 	"And of course, the AHSpy [Facebook page](https://www.facebook.com/pages/AHSpy/174665455926869) and [Twitter feed](http://twitter.com/#!/ahspy) are two great ways to be notified as soon as we add new features.": "Die AHSpy [Facebook-Seite (Englisch)](https://www.facebook.com/pages/AHSpy/174665455926869) und unser [Twitterfeed (Englisch)](http://twitter.com/#!/ahspy) sind selbstverständlich auch zwei großartige Wege, dich über neue Funktionen zu informieren.",
 	"Use AHSpy in your language! Simply use the appropriate subdomain and you should be all set!": "Benutz AHSpy in deiner Sprache! Besuch einfach die passende Subdomain und los geht's!",
 	"Comments powered by": "Kommentarsystem von",
-	"No item found using your search criteria.": "No item found using your search criteria.",
-	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet."
+	"No item found using your search criteria.": "Kein Gegenstand entspricht deinen Suchkriterien.",
+	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "Der Gegenstand existiert entweder nicht, er kann nicht gehandelt werden oder wir haben ihn einfach noch nie gesehen."
 }
