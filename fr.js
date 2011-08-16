@@ -40,7 +40,6 @@
 	"AHSpy launched publicly on June 20th 2011 and is currently in early beta so please keep this in mind while you browse around the site. To stay informed on all the changes we make, keep an eye on our [Patch notes](http://docs.ahspy.com/patch-notes/) and [Roadmap](http://docs.ahspy.com/roadmap/) pages. If you want to make a suggestion or report a bug, please use our [feedback form](http://docs.ahspy.com/feedback/).": "AHSpy a été lancé publiquement le 20 juin 2011 et est actuellement en version beta, gardez cela à l’esprit quand vous naviguez sur le site. Pour rester informé de toutes les modifications que nous faisons, gardez un œil sur nos [Notes de mise à jour](http://docs.ahspy.com/patch-notes/) et sur notre [planning](http://docs.ahspy.com/roadmap/). Si vous souhaitez faire une suggestion ou signaler un bug, merci d’utiliser notre [formulaire de retour]( http://docs.ahspy.com/feedback/).",
 	"And of course, the AHSpy [Facebook page](https://www.facebook.com/pages/AHSpy/174665455926869) and [Twitter feed](http://twitter.com/#!/ahspy) are two great ways to be notified as soon as we add new features.": "Suivez AHSpy aussi sur sa [Page Facebook](https://www.facebook.com/pages/AHSpy/174665455926869) et son compte [Twitter](http://twitter.com/#!/ahspy) qui sont deux excellents moyens d’être informé dès que nous ajoutons de nouvelles fonctionnalités.",
 	"Comments powered by": "Commentaires propulsés par",
-	"No item found using your search criteria.": "Pas d'objet trouvé avec ce critère de recherche.",
+	"No item found using your search criteria.": "Aucun objet trouvé avec ce critère de recherche.",
 	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "L'objet recherché n'existe pas. Soit parce qu'il ne peux pas être vendu à l'hôtel des ventes soit parce qu'il n'a pas encore été vu au moins une fois."
-
-+
+}
