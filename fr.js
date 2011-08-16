@@ -42,7 +42,7 @@
 	"Comments powered by": "Commentaires propulsés par",
 	"No item found using your search criteria.": "Aucun objet trouvé avec ce critère de recherche.",
 	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "L'objet recherché n'existe pas. Soit parce qu'il ne peux pas être vendu à l'hôtel des ventes soit parce qu'il n'a pas encore été vu au moins une fois.",
-	"Item #%s does not exist in our database or is invalid.": "Item #%s does not exist in our database or is invalid.",
-	"Realm %s (%s) does not exist in our database or is invalid.": "Realm %s (%s) does not exist in our database or is invalid.",
-	"If you believe that this is an error, please let us know!": "If you believe that this is an error, please let us know!"
+	"Item #%s does not exist in our database or is invalid.": "L’objet #%s n’existe pas dans notre base de données ou est invalide.",
+	"Realm %s (%s) does not exist in our database or is invalid.": "Le royaume %s (%s) n’existe pas dans notre base de données ou est invalide.",
+	"If you believe that this is an error, please let us know!": "Si vous pensez que c’est une erreur, merci de nous le faire savoir !"
 }
