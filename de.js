@@ -42,7 +42,7 @@
 	"Comments powered by": "Kommentarsystem von",
 	"No item found using your search criteria.": "Kein Gegenstand entspricht deinen Suchkriterien.",
 	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "Der Gegenstand existiert entweder nicht, er kann nicht gehandelt werden oder wir haben ihn einfach noch nie gesehen.",
-	"Item #%s does not exist in our database or is invalid.": "Item #%s does not exist in our database or is invalid.",
-	"Realm %s (%s) does not exist in our database or is invalid.": "Realm %s (%s) does not exist in our database or is invalid.",
-	"If you believe that this is an error, please let us know!": "If you believe that this is an error, please let us know!"
+	"Item #%s does not exist in our database or is invalid.": "Gegenstands-ID %s existiert in unserer Datenbank nicht oder ist ungültig.",
+	"Realm %s (%s) does not exist in our database or is invalid.": "Der Server %s (%s) existiert in unserer Datenbank nicht oder ist ungültig.",
+	"If you believe that this is an error, please let us know!": "Wenn du denkst, dass das ein Fehler ist, schreib uns bitte!"
 }
