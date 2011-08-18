@@ -44,6 +44,6 @@
 	"Item #%s does not exist in our database or is invalid.": "L’objet #%s n’existe pas dans notre base de données ou est invalide.",
 	"Realm %s (%s) does not exist in our database or is invalid.": "Le royaume %s (%s) n’existe pas dans notre base de données ou est invalide.",
 	"If you believe that this is an error, please let us know!": "Si vous pensez que c’est une erreur, merci de nous le faire savoir !",
-	"Average bid per item - Last month": "Average bid per item - Last month",
-	"Average buyout per item - Last month": "Average buyout per item - Last month"
+	"Average bid per item - Last month": "Enchère moyenne par objet - Le mois dernier",
+	"Average buyout per item - Last month": "Achat immédiat moyen par objet - Le mois dernier"
 }
