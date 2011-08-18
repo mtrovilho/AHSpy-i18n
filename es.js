@@ -18,7 +18,6 @@
 	"We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete.": "We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete.",
 	"Check %s at Wowhead": "Check %s at Wowhead",
 	"Price per item - Last 48 hours": "Price per item - Last 48 hours",
-	"Average price per item - Last month": "Average price per item - Last month",
 	"Bid": "Bid",
 	"Buyout": "Buyout",
 	"Alliance": "Alliance",
@@ -44,5 +43,7 @@
 	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.",
 	"Item #%s does not exist in our database or is invalid.": "Item #%s does not exist in our database or is invalid.",
 	"Realm %s (%s) does not exist in our database or is invalid.": "Realm %s (%s) does not exist in our database or is invalid.",
-	"If you believe that this is an error, please let us know!": "If you believe that this is an error, please let us know!"
+	"If you believe that this is an error, please let us know!": "If you believe that this is an error, please let us know!",
+	"Average bid per item - Last month": "Average bid per item - Last month",
+	"Average buyout per item - Last month": "Average buyout per item - Last month"
 }

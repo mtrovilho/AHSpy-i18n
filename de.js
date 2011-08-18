@@ -2,7 +2,6 @@
 	"Click here to change the active realm": "Hier klicken, um den aktiven Server zu ändern",
 	"Check %s at Wowhead": "%s bei Wowhead überprüfen",
 	"Price per item - Last 48 hours": "Preis pro Stück - letzten 48 Stunden",
-	"Average price per item - Last month": "Durchschnittspreis pro Stück - letzter Monat",
 	"Bid": "Gebot",
 	"Buyout": "Sofortkauf",
 	"Alliance": "Allianz",
@@ -42,7 +41,9 @@
 	"Comments powered by": "Kommentarsystem von",
 	"No item found using your search criteria.": "Kein Gegenstand entspricht deinen Suchkriterien.",
 	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "Der Gegenstand existiert entweder nicht, er kann nicht gehandelt werden oder wir haben ihn einfach noch nie gesehen.",
-	"Item #%s does not exist in our database or is invalid.": "Gegenstands-ID %s existiert in unserer Datenbank nicht oder ist ungültig.",
-	"Realm %s (%s) does not exist in our database or is invalid.": "Der Server %s (%s) existiert in unserer Datenbank nicht oder ist ungültig.",
-	"If you believe that this is an error, please let us know!": "Wenn du denkst, dass das ein Fehler ist, schreib uns bitte!"
+  "Item #%s does not exist in our database or is invalid.": "Gegenstands-ID %s existiert in unserer Datenbank nicht oder ist ungültig.",
+  "Realm %s (%s) does not exist in our database or is invalid.": "Der Server %s (%s) existiert in unserer Datenbank nicht oder ist ungültig.",
+	"If you believe that this is an error, please let us know!": "Wenn du denkst, dass das ein Fehler ist, schreib uns bitte!",
+  "Average bid per item - Last month": "Average bid per item - Last month",
+  "Average buyout per item - Last month": "Average buyout per item - Last month"
 }

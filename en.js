@@ -2,7 +2,6 @@
 	"Alliance": "Alliance",
 	"Click here to change the active realm": "Click here to change the active realm",
 	"Price per item - Last 48 hours": "Price per item - Last 48 hours",
-	"Average price per item - Last month": "Average price per item - Last month",
 	"Bid": "Bid",
 	"Buyout": "Buyout",
 	"Horde": "Horde",
@@ -44,5 +43,7 @@
 	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.",
 	"Item #%s does not exist in our database or is invalid.": "Item #%s does not exist in our database or is invalid.",
 	"Realm %s (%s) does not exist in our database or is invalid.": "Realm %s (%s) does not exist in our database or is invalid.",
-	"If you believe that this is an error, please let us know!": "If you believe that this is an error, please let us know!"
+	"If you believe that this is an error, please let us know!": "If you believe that this is an error, please let us know!",
+	"Average bid per item - Last month": "Average bid per item - Last month",
+	"Average buyout per item - Last month": "Average buyout per item - Last month"
 }
