@@ -1,7 +1,7 @@
 {
 	"Click here to change the active realm": "Hier klicken, um den aktiven Server zu ändern",
 	"Check %s at Wowhead": "%s bei Wowhead überprüfen",
-	"Price per item - Last 48 hours": "Preis pro Stück - letzten 48 Stunden",
+	"Price per item - Last 48 hours": "Stückpreis in den letzten 48 Stunden",
 	"Bid": "Gebot",
 	"Buyout": "Sofortkauf",
 	"Alliance": "Allianz",
@@ -44,6 +44,6 @@
   "Item #%s does not exist in our database or is invalid.": "Gegenstands-ID %s existiert in unserer Datenbank nicht oder ist ungültig.",
   "Realm %s (%s) does not exist in our database or is invalid.": "Der Server %s (%s) existiert in unserer Datenbank nicht oder ist ungültig.",
 	"If you believe that this is an error, please let us know!": "Wenn du denkst, dass das ein Fehler ist, schreib uns bitte!",
-  "Average bid per item - Last month": "Average bid per item - Last month",
-  "Average buyout per item - Last month": "Average buyout per item - Last month"
+  "Average bid per item - Last month": "Durchschnittsgebot pro Stück im letzten Monat",
+  "Average buyout per item - Last month": "Durchschnittlicher Sofortkaufpreis pro Stück im letzten Monat"
 }
