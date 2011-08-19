@@ -1,4 +1,31 @@
 {
+	".contributors": "Pierre-Luc Brunet",
+	".web": {
+		"Average bid": "Average bid",
+		"Average buyout": "Average buyout",
+		"Quantity": "Quantity",
+		"Auctions": "Auctions",
+		"Average price per item for %s on %s (%s) - %s": "Average price per item for %s on %s (%s) - %s",
+		"Alliance": "Alliance",
+		"Horde": "Horde",
+		"Neutral": "Neutral",
+		"Date and time are based on the UTC/GMT timezone": "Date and time are based on the UTC/GMT timezone",
+		"Ended": "Ended",
+		"Short": "Short",
+		"Medium": "Medium",
+		"Long": "Long",
+		"Very long": "Very long",
+		"Less than 30 minutes": "Less than 30 minutes",
+		"Between 30 minutes and 2 hours": "Between 30 minutes and 2 hours",
+		"Between 2 hours and 12 hours": "Between 2 hours and 12 hours",
+		"More than 12 hours": "More than 12 hours",
+		"No realm matched your filter, please click another letter.": "No realm matched your filter, please click another letter.",
+		"Price": "Price",
+		"Bid": "Bid",
+		"Buyout": "Buyout",
+		"Quantity posted for sale on that day": "Quantity posted for sale on that day",
+		"Auctions created on that day": "Auctions created on that day"
+	},
 	"Alliance": "Alliance",
 	"Click here to change the active realm": "Click here to change the active realm",
 	"Price per item - Last 48 hours": "Price per item - Last 48 hours",
@@ -45,5 +72,6 @@
 	"Realm %s (%s) does not exist in our database or is invalid.": "Realm %s (%s) does not exist in our database or is invalid.",
 	"If you believe that this is an error, please let us know!": "If you believe that this is an error, please let us know!",
 	"Average bid per item - Last month": "Average bid per item - Last month",
-	"Average buyout per item - Last month": "Average buyout per item - Last month"
+	"Average buyout per item - Last month": "Average buyout per item - Last month",
+	"Loading data": "Loading data"
 }
