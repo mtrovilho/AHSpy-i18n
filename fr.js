@@ -1,5 +1,51 @@
 {
-	"Alliance": "Alliance",
+  ".contributors": "Pierre-Luc Brunet et Alex586",
+	".web": {
+		"Average bid": "Enchère moyenne",
+		"Average buyout": "Achat immédiat moyen",
+		"Quantity": "Quantité",
+		"Auctions": "Auctions",
+		"Average price per item for %s on %s (%s) - %s": "Prix moyen par objet pour %s sur %s (%s) - %s",
+		"Alliance": "Alliance",
+		"Horde": "Horde",
+		"Neutral": "Neutre",
+		"Date and time are based on the UTC/GMT timezone": "Date and time are based on the UTC/GMT timezone",
+		"Ended": "Terminé",
+		"Short": "Court",
+		"Medium": "Medium",
+		"Long": "Long",
+		"Very long": "Très long",
+		"Less than 30 minutes": "Moins de 30 minutes",
+		"Between 30 minutes and 2 hours": "Entre 30 minutes et 2 heures",
+		"Between 2 hours and 12 hours": "Entre 2 heures et 12 heures",
+		"More than 12 hours": "Plus de 12 hours",
+		"No realm matched your filter, please click another letter.": "No realm matched your filter, please click another letter.",
+		"Price": "Prix",
+		"Bid": "Enchère",
+		"Buyout": "Achat immédiat",
+		"Quantity posted for sale on that day": "Quantité mis en vente lors de cette journée",
+		"Auctions created on that day": "Auctions created on that day",
+		"Not available": "Non disponible",
+    "%s found": {
+      "one": "%s trouvé",
+      "other": "%s trouvés"
+    },
+    "%s item": {
+      "one": "%s objet",
+      "other": "%s objets"
+    },
+    "%s auction": {
+      "one": "%s enchère",
+      "other": "%s enchères"
+    },
+    "%s hidden": {
+      "one": "%s caché",
+      "other": "%s cachés"
+    },
+    "There is no active auction for this item": "There is no active auction for this item",
+    "Last update: %s": "Dernière mise à jour: %s"
+  },
+  "Alliance": "Alliance",
 	"Click here to change the active realm": "Cliquez ici pour changer le royaume actuel",
 	"Price per item - Last 48 hours": "Prix par article - Dernières 48 heures",
 	"Bid": "Enchère",

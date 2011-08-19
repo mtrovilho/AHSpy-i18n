@@ -1,5 +1,51 @@
 {
-	"Click here to change the active realm": "Hier klicken, um den aktiven Server zu ändern",
+  ".contributors": "Contik",
+	".web": {
+		"Average bid": "Average bid",
+		"Average buyout": "Average buyout",
+		"Quantity": "Quantity",
+		"Auctions": "Auctions",
+		"Average price per item for %s on %s (%s) - %s": "Average price per item for %s on %s (%s) - %s",
+		"Alliance": "Allianz",
+		"Horde": "Horde",
+		"Neutral": "Neutral",
+		"Date and time are based on the UTC/GMT timezone": "Date and time are based on the UTC/GMT timezone",
+		"Ended": "Ended",
+		"Short": "Short",
+		"Medium": "Medium",
+		"Long": "Long",
+		"Very long": "Very long",
+		"Less than 30 minutes": "Less than 30 minutes",
+		"Between 30 minutes and 2 hours": "Between 30 minutes and 2 hours",
+		"Between 2 hours and 12 hours": "Between 2 hours and 12 hours",
+		"More than 12 hours": "More than 12 hours",
+		"No realm matched your filter, please click another letter.": "No realm matched your filter, please click another letter.",
+		"Price": "Price",
+		"Bid": "Gebot",
+		"Buyout": "Sofortkauf",
+		"Quantity posted for sale on that day": "Quantity posted for sale on that day",
+		"Auctions created on that day": "Auctions created on that day",
+		"Not available": "Not available",
+    "%s found": {
+      "one": "%s trouvé",
+      "other": "%s trouvés"
+    },
+    "%s item": {
+      "one": "%s item",
+      "other": "%s items"
+    },
+    "%s auction": {
+      "one": "%s auction",
+      "other": "%s auctions"
+    },
+    "%s hidden": {
+      "one": "%s hidden",
+      "other": "%s hidden"
+    },
+    "There is no active auction for this item": "There is no active auction for this item",
+    "Last update: %s": "Last update: %s"
+  },
+  "Click here to change the active realm": "Hier klicken, um den aktiven Server zu ändern",
 	"Check %s at Wowhead": "%s bei Wowhead überprüfen",
 	"Price per item - Last 48 hours": "Stückpreis in den letzten 48 Stunden",
 	"Bid": "Gebot",
