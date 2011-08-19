@@ -1,5 +1,5 @@
 {
-  ".contributors": "Pierre-Luc Brunet et Alex586",
+	".contributors": "Pierre-Luc Brunet et Alex586",
 	".web": {
 		"Average bid": "Enchère moyenne",
 		"Average buyout": "Achat immédiat moyen",
@@ -26,26 +26,26 @@
 		"Quantity posted for sale on that day": "Quantité mis en vente lors de cette journée",
 		"Auctions created on that day": "Auctions created on that day",
 		"Not available": "Non disponible",
-    "%s found": {
-      "one": "%s trouvé",
-      "other": "%s trouvés"
-    },
-    "%s item": {
-      "one": "%s objet",
-      "other": "%s objets"
-    },
-    "%s auction": {
-      "one": "%s enchère",
-      "other": "%s enchères"
-    },
-    "%s hidden": {
-      "one": "%s caché",
-      "other": "%s cachés"
-    },
-    "There is no active auction for this item": "There is no active auction for this item",
-    "Last update: %s": "Dernière mise à jour: %s"
-  },
-  "Alliance": "Alliance",
+		"%s found in": {
+			"one": "%s trouvé dans",
+			"other": "%s trouvés dans"
+		},
+		"%s item": {
+			"one": "%s objet",
+			"other": "%s objets"
+		},
+		"%s auction": {
+			"one": "%s enchère",
+			"other": "%s enchères"
+		},
+		"%s hidden": {
+			"one": "%s caché",
+			"other": "%s cachés"
+		},
+		"There is no active auction for this item": "There is no active auction for this item",
+		"Last update: %s": "Dernière mise à jour: %s"
+	},
+	"Alliance": "Alliance",
 	"Click here to change the active realm": "Cliquez ici pour changer le royaume actuel",
 	"Price per item - Last 48 hours": "Prix par article - Dernières 48 heures",
 	"Bid": "Enchère",
@@ -91,5 +91,6 @@
 	"Realm %s (%s) does not exist in our database or is invalid.": "Le royaume %s (%s) n’existe pas dans notre base de données ou est invalide.",
 	"If you believe that this is an error, please let us know!": "Si vous pensez que c’est une erreur, merci de nous le faire savoir !",
 	"Average bid per item - Last month": "Enchère moyenne par objet - Le mois dernier",
-	"Average buyout per item - Last month": "Achat immédiat moyen par objet - Le mois dernier"
+	"Average buyout per item - Last month": "Achat immédiat moyen par objet - Le mois dernier",
+	"Loading data": "Loading data"
 }

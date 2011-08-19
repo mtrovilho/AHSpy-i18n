@@ -26,9 +26,9 @@
 		"Quantity posted for sale on that day": "Quantity posted for sale on that day",
 		"Auctions created on that day": "Auctions created on that day",
 		"Not available": "Not available",
-    "%s found": {
-      "one": "%s trouvé",
-      "other": "%s trouvés"
+    "%s found in": {
+      "one": "%s found in",
+      "other": "%s found in"
     },
     "%s item": {
       "one": "%s item",
