@@ -26,21 +26,23 @@
 		"Quantity posted for sale on that day": "Quantity posted for sale on that day",
 		"Auctions created on that day": "Auctions created on that day",
 		"Not available": "Not available",
-    "%d item found in %%s": {
-      "one": "%d item found in %%s",
-      "other": "%d item found in %%s"
-    },
-    "%d auction": {
-      "one": "%d auction",
-      "other": "%d auctions"
-    },
-    "%d hidden": {
-      "one": "%d hidden",
-      "other": "%d hidden"
-    },
-    "There is no active auction for this item": "There is no active auction for this item",
-    "Last update: %s": "Last update: %s"
-  },
+		"%d item found in %%s": {
+			"one": "%d item found in %%s",
+			"other": "%d item found in %%s"
+		},
+		"%d auction": {
+			"one": "%d auction",
+			"other": "%d auctions"
+		},
+		"%d hidden": {
+			"one": "%d hidden",
+			"other": "%d hidden"
+		},
+		"There is no active auction for this item": "There is no active auction for this item",
+		"Last update: %s": "Last update: %s",
+		"Total bid": "Total bid",
+		"Per item": "Per item"
+	},
 	"Alliance": "Alliance",
 	"Click here to change the active realm": "Click here to change the active realm",
 	"Price per item - Last 48 hours": "Price per item - Last 48 hours",
@@ -87,5 +89,6 @@
 	"Realm %s (%s) does not exist in our database or is invalid.": "Realm %s (%s) does not exist in our database or is invalid.",
 	"If you believe that this is an error, please let us know!": "If you believe that this is an error, please let us know!",
 	"Average bid per item - Last month": "Average bid per item - Last month",
-	"Average buyout per item - Last month": "Average buyout per item - Last month"
+	"Average buyout per item - Last month": "Average buyout per item - Last month",
+	"Loading data": "Loading data"
 }

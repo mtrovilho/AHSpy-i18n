@@ -39,7 +39,9 @@
       "other": "%d hidden"
     },
     "There is no active auction for this item": "There is no active auction for this item",
-    "Last update: %s": "Last update: %s"
+    "Last update: %s": "Last update: %s",
+		"Total bid": "Total bid",
+		"Per item": "Per item"
   },
   "Click here to change the active realm": "Hier klicken, um den aktiven Server zu ändern",
 	"Check %s at Wowhead": "%s bei Wowhead überprüfen",

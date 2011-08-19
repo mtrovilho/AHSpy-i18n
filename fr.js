@@ -39,7 +39,9 @@
 			"other": "%d cachés"
 		},
 		"There is no active auction for this item": "There is no active auction for this item",
-		"Last update: %s": "Dernière mise à jour: %s"
+		"Last update: %s": "Dernière mise à jour: %s",
+		"Total bid": "Total bid",
+		"Per item": "Per item"
 	},
 	"Alliance": "Alliance",
 	"Click here to change the active realm": "Cliquez ici pour changer le royaume actuel",

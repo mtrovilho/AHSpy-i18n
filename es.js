@@ -39,7 +39,9 @@
       "other": "%d hidden"
     },
     "There is no active auction for this item": "There is no active auction for this item",
-    "Last update: %s": "Last update: %s"
+    "Last update: %s": "Last update: %s",
+		"Total bid": "Total bid",
+		"Per item": "Per item"
   },
 	"Alliance": "Alliance",
 	"Click here to change the active realm": "Click here to change the active realm",
