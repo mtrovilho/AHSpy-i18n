@@ -26,21 +26,17 @@
 		"Quantity posted for sale on that day": "Quantity posted for sale on that day",
 		"Auctions created on that day": "Auctions created on that day",
 		"Not available": "Not available",
-    "%s found in": {
-      "one": "%s found in",
-      "other": "%s found in"
+    "%d item found in %%s": {
+      "one": "%d item found in %%s",
+      "other": "%d item found in %%s"
     },
-    "%s item": {
-      "one": "%s item",
-      "other": "%s items"
+    "%d auction": {
+      "one": "%d auction",
+      "other": "%d auctions"
     },
-    "%s auction": {
-      "one": "%s auction",
-      "other": "%s auctions"
-    },
-    "%s hidden": {
-      "one": "%s hidden",
-      "other": "%s hidden"
+    "%d hidden": {
+      "one": "%d hidden",
+      "other": "%d hidden"
     },
     "There is no active auction for this item": "There is no active auction for this item",
     "Last update: %s": "Last update: %s"

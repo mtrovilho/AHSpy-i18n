@@ -26,21 +26,17 @@
 		"Quantity posted for sale on that day": "Quantité mis en vente lors de cette journée",
 		"Auctions created on that day": "Auctions created on that day",
 		"Not available": "Non disponible",
-		"%s found in": {
-			"one": "%s trouvé dans",
-			"other": "%s trouvés dans"
+    "%d item found in %%s": {
+      "one": "%d objet trouvé dans %%s",
+      "other": "%d objets trouvés dans %%s"
+    },
+		"%d auction": {
+			"one": "%d enchère",
+			"other": "%d enchères"
 		},
-		"%s item": {
-			"one": "%s objet",
-			"other": "%s objets"
-		},
-		"%s auction": {
-			"one": "%s enchère",
-			"other": "%s enchères"
-		},
-		"%s hidden": {
-			"one": "%s caché",
-			"other": "%s cachés"
+		"%d hidden": {
+			"one": "%d caché",
+			"other": "%d cachés"
 		},
 		"There is no active auction for this item": "There is no active auction for this item",
 		"Last update: %s": "Dernière mise à jour: %s"
