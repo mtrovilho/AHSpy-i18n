@@ -41,6 +41,7 @@
     "There is no active auction for this item": "Für diesen Gegenstand gibt es keine Auktion",
     "Last update: %s": "Letzte Änderung: %s",
 		"Total bid": "Gesamtgebot",
+		"Total buyout": "Total buyout",
 		"Per item": "Einzelgebot"
   },
   "Click here to change the active realm": "Hier klicken, um den aktiven Server zu ändern",
@@ -89,5 +90,6 @@
   "Realm %s (%s) does not exist in our database or is invalid.": "Der Server %s (%s) existiert in unserer Datenbank nicht oder ist ungültig.",
 	"If you believe that this is an error, please let us know!": "Wenn du denkst, dass das ein Fehler ist, schreib uns bitte!",
   "Average bid per item - Last month": "Durchschnittsgebot - letzter Monat",
-  "Average buyout per item - Last month": "Durchschnittskaufpreis - letzter Monat"
+  "Average buyout per item - Last month": "Durchschnittskaufpreis - letzter Monat",
+	"Loading data": "Loading data"
 }

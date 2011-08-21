@@ -28,7 +28,7 @@
 		"Not available": "Not available",
     "%d item found in %%s": {
       "one": "%d item found in %%s",
-      "other": "%d item found in %%s"
+      "other": "%d items found in %%s"
     },
     "%d auction": {
       "one": "%d auction",
@@ -41,6 +41,7 @@
     "There is no active auction for this item": "There is no active auction for this item",
     "Last update: %s": "Last update: %s",
 		"Total bid": "Total bid",
+		"Total buyout": "Total buyout",
 		"Per item": "Per item"
   },
 	"Alliance": "Alliance",
@@ -89,5 +90,6 @@
 	"Realm %s (%s) does not exist in our database or is invalid.": "Realm %s (%s) does not exist in our database or is invalid.",
 	"If you believe that this is an error, please let us know!": "If you believe that this is an error, please let us know!",
 	"Average bid per item - Last month": "Average bid per item - Last month",
-	"Average buyout per item - Last month": "Average buyout per item - Last month"
+	"Average buyout per item - Last month": "Average buyout per item - Last month",
+	"Loading data": "Loading data"
 }

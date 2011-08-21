@@ -41,6 +41,7 @@
 		"There is no active auction for this item": "There is no active auction for this item",
 		"Last update: %s": "Dernière mise à jour: %s",
 		"Total bid": "Total bid",
+		"Total buyout": "Total buyout",
 		"Per item": "Per item"
 	},
 	"Alliance": "Alliance",

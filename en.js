@@ -28,7 +28,7 @@
 		"Not available": "Not available",
 		"%d item found in %%s": {
 			"one": "%d item found in %%s",
-			"other": "%d item found in %%s"
+			"other": "%d items found in %%s"
 		},
 		"%d auction": {
 			"one": "%d auction",
@@ -41,6 +41,7 @@
 		"There is no active auction for this item": "There is no active auction for this item",
 		"Last update: %s": "Last update: %s",
 		"Total bid": "Total bid",
+		"Total buyout": "Total buyout",
 		"Per item": "Per item"
 	},
 	"Alliance": "Alliance",
