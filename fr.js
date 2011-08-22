@@ -24,7 +24,7 @@
 		"Bid": "Enchère",
 		"Buyout": "Achat immédiat",
 		"Quantity posted for sale on that day": "Quantité mis en vente lors de cette journée",
-		"Auctions created on that day": "Auctions created on that day",
+		"Auctions created on that day": "Enchères créées lors de cette journée",
 		"Not available": "Non disponible",
     "%d item found in %%s": {
       "one": "%d objet trouvé dans %%s",
