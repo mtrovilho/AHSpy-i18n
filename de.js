@@ -41,8 +41,8 @@
     "There is no active auction for this item": "Für diesen Gegenstand gibt es keine Auktion",
     "Last update: %s": "Letzte Änderung: %s",
 		"Total bid": "Gesamtgebot",
-		"Total buyout": "Total buyout",
-		"Per item": "Einzelgebot"
+		"Total buyout": "Gesamtkaufpreis",
+		"Per item": "Stückpreis"
   },
   "Click here to change the active realm": "Hier klicken, um den aktiven Server zu ändern",
 	"Check %s at Wowhead": "%s bei Wowhead überprüfen",
@@ -91,5 +91,5 @@
 	"If you believe that this is an error, please let us know!": "Wenn du denkst, dass das ein Fehler ist, schreib uns bitte!",
   "Average bid per item - Last month": "Durchschnittsgebot - letzter Monat",
   "Average buyout per item - Last month": "Durchschnittskaufpreis - letzter Monat",
-	"Loading data": "Loading data"
+	"Loading data": "Lade Daten"
 }
