@@ -1,5 +1,5 @@
 {
-  ".contributors": "Contiki",
+	".contributors": "Contiki",
 	".web": {
 		"Average bid": "Durchschnittsgebot",
 		"Average buyout": "Durchschnittskaufpreis",
@@ -26,25 +26,41 @@
 		"Quantity posted for sale on that day": "Angebotene Menge am jeweiligen Tag",
 		"Auctions created on that day": "Erstellte Auktionen am jeweiligen Tag",
 		"Not available": "Nicht verfügbar",
-    "%d item found in %%s": {
-      "one": "%d Gegenstand gefunden in %%s",
-      "other": "%d Gegenstände gefunden in %%s"
-    },
-    "%d auction": {
-      "one": "%d Auktion",
-      "other": "%d Auktionen"
-    },
-    "%d hidden": {
-      "one": "%d versteckt",
-      "other": "%d versteckt"
-    },
-    "There is no active auction for this item": "Für diesen Gegenstand gibt es keine Auktion",
-    "Last update: %s": "Letzte Änderung: %s",
+		"%d item found in %%s": {
+			"one": "%d Gegenstand gefunden in %%s",
+			"other": "%d Gegenstände gefunden in %%s"
+		},
+		"%d auction": {
+			"one": "%d Auktion",
+			"other": "%d Auktionen"
+		},
+		"%d hidden": {
+			"one": "%d versteckt",
+			"other": "%d versteckt"
+		},
+		"There is no active auction for this item": "Für diesen Gegenstand gibt es keine Auktion",
+		"Last update: %s": "Letzte Änderung: %s",
 		"Total bid": "Gesamtgebot",
 		"Total buyout": "Gesamtkaufpreis",
 		"Per item": "Stückpreis"
-  },
-  "Click here to change the active realm": "Hier klicken, um den aktiven Server zu ändern",
+	},
+	".chart": {
+	  "decimalPoint": ".",
+    "downloadPNG": "Download PNG image",
+    "downloadJPEG": "Download JPEG image",
+    "downloadPDF": "Download PDF document",
+    "downloadSVG": "Download SVG vector image",
+    "exportButtonTitle": "Export to raster or vector image",
+    "loading": "Loading data",
+    "printButtonTitle": "Print the chart",
+    "rangeSelectorFrom": "From",
+    "rangeSelectorTo": "To",
+    "rangeSelectorZoom": "Zoom",
+    "resetZoom": "Reset zoom",
+    "resetZoomTitle": "Reset zoom level 1:1",
+    "thousandsSep": ","
+	},
+	"Click here to change the active realm": "Hier klicken, um den aktiven Server zu ändern",
 	"Check %s at Wowhead": "%s bei Wowhead überprüfen",
 	"Price per item - Last 48 hours": "Stückpreis - 48 Stunden",
 	"Bid": "Gebot",
@@ -86,10 +102,10 @@
 	"Comments powered by": "Kommentarsystem von",
 	"No item found using your search criteria.": "Kein Gegenstand entspricht deinen Suchkriterien.",
 	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "Der Gegenstand existiert entweder nicht, er kann nicht gehandelt werden oder wir haben ihn einfach noch nie gesehen.",
-  "Item #%s does not exist in our database or is invalid.": "Gegenstands-ID %s existiert in unserer Datenbank nicht oder ist ungültig.",
-  "Realm %s (%s) does not exist in our database or is invalid.": "Der Server %s (%s) existiert in unserer Datenbank nicht oder ist ungültig.",
+	"Item #%s does not exist in our database or is invalid.": "Gegenstands-ID %s existiert in unserer Datenbank nicht oder ist ungültig.",
+	"Realm %s (%s) does not exist in our database or is invalid.": "Der Server %s (%s) existiert in unserer Datenbank nicht oder ist ungültig.",
 	"If you believe that this is an error, please let us know!": "Wenn du denkst, dass das ein Fehler ist, schreib uns bitte!",
-  "Average bid per item - Last month": "Durchschnittsgebot - letzter Monat",
-  "Average buyout per item - Last month": "Durchschnittskaufpreis - letzter Monat",
+	"Average bid per item - Last month": "Durchschnittsgebot - letzter Monat",
+	"Average buyout per item - Last month": "Durchschnittskaufpreis - letzter Monat",
 	"Loading data": "Lade Daten"
 }

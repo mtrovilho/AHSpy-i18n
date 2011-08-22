@@ -44,6 +44,22 @@
 		"Total buyout": "Total buyout",
 		"Per item": "Per item"
 	},
+	".chart": {
+	  "decimalPoint": ".",
+    "downloadPNG": "Download PNG image",
+    "downloadJPEG": "Download JPEG image",
+    "downloadPDF": "Download PDF document",
+    "downloadSVG": "Download SVG vector image",
+    "exportButtonTitle": "Export to raster or vector image",
+    "loading": "Loading data",
+    "printButtonTitle": "Print the chart",
+    "rangeSelectorFrom": "From",
+    "rangeSelectorTo": "To",
+    "rangeSelectorZoom": "Zoom",
+    "resetZoom": "Reset zoom",
+    "resetZoomTitle": "Reset zoom level 1:1",
+    "thousandsSep": ","
+	},
 	"Alliance": "Alliance",
 	"Click here to change the active realm": "Click here to change the active realm",
 	"Price per item - Last 48 hours": "Price per item - Last 48 hours",

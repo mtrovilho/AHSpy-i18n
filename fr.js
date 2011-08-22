@@ -26,10 +26,10 @@
 		"Quantity posted for sale on that day": "Quantité mis en vente lors de cette journée",
 		"Auctions created on that day": "Enchères créées lors de cette journée",
 		"Not available": "Non disponible",
-    "%d item found in %%s": {
-      "one": "%d objet trouvé dans %%s",
-      "other": "%d objets trouvés dans %%s"
-    },
+		"%d item found in %%s": {
+			"one": "%d objet trouvé dans %%s",
+			"other": "%d objets trouvés dans %%s"
+		},
 		"%d auction": {
 			"one": "%d enchère",
 			"other": "%d enchères"
@@ -43,6 +43,22 @@
 		"Total bid": "Offre totale",
 		"Total buyout": "Achat immédiat total",
 		"Per item": "Par objet"
+	},
+	".chart": {
+	  "decimalPoint": ".",
+    "downloadPNG": "Download PNG image",
+    "downloadJPEG": "Download JPEG image",
+    "downloadPDF": "Download PDF document",
+    "downloadSVG": "Download SVG vector image",
+    "exportButtonTitle": "Export to raster or vector image",
+    "loading": "Chargement des données",
+    "printButtonTitle": "Print the chart",
+    "rangeSelectorFrom": "De",
+    "rangeSelectorTo": "À",
+    "rangeSelectorZoom": "Zoom",
+    "resetZoom": "Reset zoom",
+    "resetZoomTitle": "Reset zoom level 1:1",
+    "thousandsSep": ","
 	},
 	"Alliance": "Alliance",
 	"Click here to change the active realm": "Cliquez ici pour changer le royaume actuel",
