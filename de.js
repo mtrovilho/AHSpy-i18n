@@ -43,11 +43,11 @@
 		"Total bid": "Gesamtgebot",
 		"Total buyout": "Gesamtkaufpreis",
 		"Per item": "Stückpreis",
-		"Apply": "Apply",
-		"Cancel": "Cancel",
+		"Apply": "Übernehmen",
+		"Cancel": "Abbrechen",
 		"Gold": "Gold",
-		"Silver": "Silver",
-		"Copper": "Bronze"
+		"Silver": "Silber",
+		"Copper": "Kupfer"
 	},
 	".chart": {
 	  "decimalPoint": ",",
