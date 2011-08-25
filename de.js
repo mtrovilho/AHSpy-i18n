@@ -42,7 +42,12 @@
 		"Last update: %s": "Letzte Änderung: %s",
 		"Total bid": "Gesamtgebot",
 		"Total buyout": "Gesamtkaufpreis",
-		"Per item": "Stückpreis"
+		"Per item": "Stückpreis",
+		"Apply": "Apply",
+		"Cancel": "Cancel",
+		"Gold": "Gold",
+		"Silver": "Silver",
+		"Copper": "Bronze"
 	},
 	".chart": {
 	  "decimalPoint": ",",

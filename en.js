@@ -42,23 +42,28 @@
 		"Last update: %s": "Last update: %s",
 		"Total bid": "Total bid",
 		"Total buyout": "Total buyout",
-		"Per item": "Per item"
+		"Per item": "Per item",
+		"Apply": "Apply",
+		"Cancel": "Cancel",
+		"Gold": "Gold",
+		"Silver": "Silver",
+		"Copper": "Bronze"
 	},
 	".chart": {
-	  "decimalPoint": ".",
-    "downloadPNG": "Download PNG image",
-    "downloadJPEG": "Download JPEG image",
-    "downloadPDF": "Download PDF document",
-    "downloadSVG": "Download SVG vector image",
-    "exportButtonTitle": "Export to raster or vector image",
-    "loading": "Loading data",
-    "printButtonTitle": "Print the chart",
-    "rangeSelectorFrom": "From",
-    "rangeSelectorTo": "To",
-    "rangeSelectorZoom": "Zoom",
-    "resetZoom": "Reset zoom",
-    "resetZoomTitle": "Reset zoom level 1:1",
-    "thousandsSep": ","
+		"decimalPoint": ".",
+		"downloadPNG": "Download PNG image",
+		"downloadJPEG": "Download JPEG image",
+		"downloadPDF": "Download PDF document",
+		"downloadSVG": "Download SVG vector image",
+		"exportButtonTitle": "Export to raster or vector image",
+		"loading": "Loading data",
+		"printButtonTitle": "Print the chart",
+		"rangeSelectorFrom": "From",
+		"rangeSelectorTo": "To",
+		"rangeSelectorZoom": "Zoom",
+		"resetZoom": "Reset zoom",
+		"resetZoomTitle": "Reset zoom level 1:1",
+		"thousandsSep": ","
 	},
 	"Alliance": "Alliance",
 	"Click here to change the active realm": "Click here to change the active realm",
@@ -107,5 +112,6 @@
 	"If you believe that this is an error, please let us know!": "If you believe that this is an error, please let us know!",
 	"Average bid per item - Last month": "Average bid per item - Last month",
 	"Average buyout per item - Last month": "Average buyout per item - Last month",
-	"Loading data": "Loading data"
+	"Loading data": "Loading data",
+	"Sign In to AHSpy": "Sign In to AHSpy"
 }

@@ -42,23 +42,28 @@
 		"Last update: %s": "Dernière mise à jour: %s",
 		"Total bid": "Offre totale",
 		"Total buyout": "Achat immédiat total",
-		"Per item": "Par objet"
+		"Per item": "Par objet",
+		"Apply": "Appliquer",
+		"Cancel": "Annuler",
+		"Gold": "Or",
+		"Silver": "Argent",
+		"Copper": "Bronze"
 	},
 	".chart": {
-	  "decimalPoint": ".",
-    "downloadPNG": "Télécharger l'image au format PNG",
-    "downloadJPEG": "Télécharger l'image au format JPG",
-    "downloadPDF": "Télécharger le document au format PDF",
-    "downloadSVG": "Télécharger l'image au format SVG",
-    "exportButtonTitle": "Télécharger l'image au format matriciel ou vectoriel",
-    "loading": "Chargement des données",
-    "printButtonTitle": "Imprimer le diagramme",
-    "rangeSelectorFrom": "Du",
-    "rangeSelectorTo": "au",
-    "rangeSelectorZoom": "Aggrandir",
-    "resetZoom": "Réinitialiser l'agrandissement",
-    "resetZoomTitle": "Réinitialiser l'agrandissement au ratio 1:1",
-    "thousandsSep": ","
+		"decimalPoint": ".",
+		"downloadPNG": "Télécharger l'image au format PNG",
+		"downloadJPEG": "Télécharger l'image au format JPG",
+		"downloadPDF": "Télécharger le document au format PDF",
+		"downloadSVG": "Télécharger l'image au format SVG",
+		"exportButtonTitle": "Télécharger l'image au format matriciel ou vectoriel",
+		"loading": "Chargement des données",
+		"printButtonTitle": "Imprimer le diagramme",
+		"rangeSelectorFrom": "Du",
+		"rangeSelectorTo": "au",
+		"rangeSelectorZoom": "Aggrandir",
+		"resetZoom": "Réinitialiser l'agrandissement",
+		"resetZoomTitle": "Réinitialiser l'agrandissement au ratio 1:1",
+		"thousandsSep": ","
 	},
 	"Alliance": "Alliance",
 	"Click here to change the active realm": "Cliquez ici pour changer le royaume actuel",
@@ -107,5 +112,6 @@
 	"If you believe that this is an error, please let us know!": "Si vous pensez que c’est une erreur, merci de nous le faire savoir !",
 	"Average bid per item - Last month": "Enchère moyenne par objet - Le mois dernier",
 	"Average buyout per item - Last month": "Achat immédiat moyen par objet - Le mois dernier",
-	"Loading data": "Chargement des données"
+	"Loading data": "Chargement des données",
+	"Sign In to AHSpy": "Sign In to AHSpy"
 }

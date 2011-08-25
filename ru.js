@@ -42,7 +42,12 @@
     "Last update: %s": "Last update: %s",
 		"Total bid": "Total bid",
 		"Total buyout": "Total buyout",
-		"Per item": "Per item"
+		"Per item": "Per item",
+		"Apply": "Apply",
+		"Cancel": "Cancel",
+		"Gold": "Gold",
+		"Silver": "Silver",
+		"Copper": "Bronze"
 	},
 	".chart": {
 	  "decimalPoint": ".",
