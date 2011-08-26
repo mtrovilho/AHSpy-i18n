@@ -112,5 +112,22 @@
 	"If you believe that this is an error, please let us know!": "Wenn du denkst, dass das ein Fehler ist, schreib uns bitte!",
 	"Average bid per item - Last month": "Durchschnittsgebot - letzter Monat",
 	"Average buyout per item - Last month": "Durchschnittskaufpreis - letzter Monat",
-	"Loading data": "Lade Daten"
+	"Loading data": "Lade Daten",
+	"Sign In to AHSpy": "Sign In to AHSpy",
+	"Sign Out": "Sign Out",
+	"Stay Connected": "Stay Connected",
+	"Read the AHSpy blog": "Read the AHSpy blog",
+	"Follow us on Twitter at @AHSpy": "Follow us on Twitter at @AHSpy",
+	"\"Like\" AHSpy on Facebook": "\"Like\" AHSpy on Facebook",
+	"Feedback": "Feedback",
+	"Profile": "Profile",
+	"Watch List": "Watch List",
+	"Sign In": "Sign In",
+	"Do you already have an account on one of these sites? If so, it means you also have an AHSpy account!": "Do you already have an account on one of these sites? If so, it means you also have an AHSpy account!",
+	"Click the logo to log in with it here:": "Click the logo to log in with it here:",
+	"locale_en_fullName": "English",
+	"locale_fr_fullName": "Français",
+	"locale_de_fullName": "Deutsch",
+	"locale_es_fullName": "Español",
+	"locale_ru_fullName": "Русский"
 }
