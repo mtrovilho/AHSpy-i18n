@@ -5,7 +5,7 @@
 		"Average buyout": "Средний выкуп",
 		"Quantity": "Количество",
 		"Auctions": "Аукционы",
-		"Average price per item for %s on %s (%s) - %s": "Средняя цена за единицу %s из %s (%s) - %s",
+		"Average price per item for %s on %s (%s) - %s": "Средняя цена за предмет %s из %s (%s) - %s",
 		"Alliance": "Альянс",
 		"Horde": "Орда",
 		"Neutral": "Нейтральный",
@@ -27,8 +27,8 @@
 		"Auctions created on that day": "Создано аукционов в этот день",
 		"Not available": "Не доступно",
     "%d item found in %%s": {
-      "one": "%d единица найдена в %%s",
-      "other": "%d единиц найдено в %%s"
+      "one": "%d предмет найден в %%s",
+      "other": "%d предметов найдено в %%s"
     },
     "%d auction": {
       "one": "%d аукцион",
@@ -42,7 +42,7 @@
     "Last update: %s": "Последнее обновление: %s",
 		"Total bid": "Общая ставка",
 		"Total buyout": "Общий выкуп",
-		"Per item": "За единицу",
+		"Per item": "За предмет",
 		"Apply": "Применить",
 		"Cancel": "Отменить",
 		"Gold": "Золото",
@@ -67,7 +67,7 @@
 	},
 	"Alliance": "Альянс",
 	"Click here to change the active realm": "Кликните здесь, чтобы сменить выбранный игровой мир",
-	"Price per item - Last 48 hours": "Цена за единицу - за последние 48 часов",
+	"Price per item - Last 48 hours": "Цена за предмет - за последние 48 часов",
 	"Bid": "Ставка",
 	"Buyout": "Выкуп",
 	"Horde": "Орда",
@@ -80,7 +80,7 @@
 	"Time Left": "Осталось времени",
 	"Check %s at Wowhead": "Найти %s на Wowhead",
 	"Please note that comments are shared across all realms but are locale specific (comments made on the french AHSpy site will not show up on the english version).": "Пожалуйста, обратите внимание, что комментарии являются общими для всех игровых миров, но имеется привязка к языку комментария (замечания, сделанные по французском сайте AHSpy не будет отображаться на английской версии).",
-	"Show price per item": "Показать цену за единицу",
+	"Show price per item": "Показать цену за предмет",
 	"Hide auctions with no buyout price": "Скрыть аукционы без цены выкупа",
 	"Auctions table options": "Параметры таблицы аукциона",
 	"World of Warcraft&reg; and Blizzard Entertainment are all trademarks or registered trademarks of Blizzard Entertainment in the United States and/or other countries.": "World of Warcraft&reg; и Blizzard Entertainment являются зарегистрированными торговыми марками компании Blizzard Entertainment в США и/или других странах.",
