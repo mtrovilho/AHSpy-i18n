@@ -130,5 +130,5 @@
 	"locale_de_fullName": "Deutsch",
 	"locale_es_fullName": "Español",
 	"locale_ru_fullName": "Русский",
-	"Pct": "Pct"
+	"Pct": "Prozent"
 }
