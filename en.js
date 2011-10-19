@@ -47,7 +47,7 @@
 		"Cancel": "Cancel",
 		"Gold": "Gold",
 		"Silver": "Silver",
-		"Copper": "Bronze"
+		"Copper": "Copper"
 	},
 	".chart": {
 		"decimalPoint": ".",
