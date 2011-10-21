@@ -47,7 +47,9 @@
 		"Cancel": "Cancel",
 		"Gold": "Gold",
 		"Silver": "Silver",
-		"Copper": "Copper"
+		"Copper": "Copper",
+		"Average price": "Average price",
+		"Harmonic mean": "Harmonic mean"
 	},
 	".chart": {
 		"decimalPoint": ".",
@@ -129,5 +131,11 @@
 	"locale_fr_fullName": "Français",
 	"locale_de_fullName": "Deutsch",
 	"locale_es_fullName": "Español",
-	"locale_ru_fullName": "Русский"
+	"locale_ru_fullName": "Русский",
+	"Active": "Active",
+	"Last 7 days": "Last 7 days",
+	"Last 31 days": "Last 31 days",
+	"Per item": "Per item",
+	"Per stack": "Per stack",
+	"Pct": "Pct"
 }
