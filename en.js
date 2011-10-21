@@ -49,7 +49,11 @@
 		"Silver": "Silver",
 		"Copper": "Copper",
 		"Average price": "Average price",
-		"Harmonic mean": "Harmonic mean"
+		"Harmonic mean": "Harmonic mean",
+		"Harmonic mean comparaison for all %s realms": "Harmonic mean comparaison for all %s realms",
+    "Last 31 days": "Last 31 days",
+    "Average Price": "Average Price",
+    "Quantity Posted": "Quantity Posted"
 	},
 	".chart": {
 		"decimalPoint": ".",
