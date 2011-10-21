@@ -47,23 +47,25 @@
 		"Cancel": "Abbrechen",
 		"Gold": "Gold",
 		"Silver": "Silber",
-		"Copper": "Kupfer"
+		"Copper": "Kupfer",
+		"Average price": "Average price",
+		"Harmonic mean": "Harmonic mean"
 	},
 	".chart": {
-	  "decimalPoint": ",",
-    "downloadPNG": "PNG-Bild herunterladen",
-    "downloadJPEG": "JPEG-Bild herunterladen",
-    "downloadPDF": "PDF-Datei herunterladen",
-    "downloadSVG": "SVG-Vektorgrafik herunterladen",
-    "exportButtonTitle": "Als Raster- oder Vektorgrafik exportieren",
-    "loading": "Lade Daten",
-    "printButtonTitle": "Diagramm ausdrucken",
-    "rangeSelectorFrom": "Von",
-    "rangeSelectorTo": "Bis",
-    "rangeSelectorZoom": "Zoom",
-    "resetZoom": "Zoom zurücksetzen",
-    "resetZoomTitle": "Zoomstufe 1:1 zurücksetzen",
-    "thousandsSep": "."
+		"decimalPoint": ",",
+		"downloadPNG": "PNG-Bild herunterladen",
+		"downloadJPEG": "JPEG-Bild herunterladen",
+		"downloadPDF": "PDF-Datei herunterladen",
+		"downloadSVG": "SVG-Vektorgrafik herunterladen",
+		"exportButtonTitle": "Als Raster- oder Vektorgrafik exportieren",
+		"loading": "Lade Daten",
+		"printButtonTitle": "Diagramm ausdrucken",
+		"rangeSelectorFrom": "Von",
+		"rangeSelectorTo": "Bis",
+		"rangeSelectorZoom": "Zoom",
+		"resetZoom": "Zoom zurücksetzen",
+		"resetZoomTitle": "Zoomstufe 1:1 zurücksetzen",
+		"thousandsSep": "."
 	},
 	"Click here to change the active realm": "Hier klicken, um den aktiven Server zu ändern",
 	"Check %s at Wowhead": "%s bei Wowhead überprüfen",
@@ -130,5 +132,10 @@
 	"locale_de_fullName": "Deutsch",
 	"locale_es_fullName": "Español",
 	"locale_ru_fullName": "Русский",
-	"Pct": "Prozent"
+	"Pct": "Prozent",
+	"Active": "Active",
+	"Last 7 days": "Last 7 days",
+	"Last 31 days": "Last 31 days",
+	"Per item": "Per item",
+	"Per stack": "Per stack"
 }

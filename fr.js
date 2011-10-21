@@ -47,7 +47,9 @@
 		"Cancel": "Annuler",
 		"Gold": "Or",
 		"Silver": "Argent",
-		"Copper": "Bronze"
+		"Copper": "Bronze",
+		"Average price": "Average price",
+		"Harmonic mean": "Harmonic mean"
 	},
 	".chart": {
 		"decimalPoint": ".",
@@ -130,5 +132,10 @@
 	"locale_de_fullName": "Deutsch",
 	"locale_es_fullName": "Español",
 	"locale_ru_fullName": "Русский",
-	"Pct": "Pct"
+	"Pct": "Pct",
+	"Active": "Active",
+	"Last 7 days": "Last 7 days",
+	"Last 31 days": "Last 31 days",
+	"Per item": "Per item",
+	"Per stack": "Per stack"
 }
