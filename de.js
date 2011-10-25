@@ -48,12 +48,12 @@
 		"Gold": "Gold",
 		"Silver": "Silber",
 		"Copper": "Kupfer",
-		"Average price": "Average price",
-		"Harmonic mean": "Harmonic mean",
-		"Harmonic mean comparaison for all %s realms": "Harmonic mean comparaison for all %s realms",
-    "Last 31 days": "Last 31 days",
-    "Average Price": "Average Price",
-    "Quantity Posted": "Quantity Posted"
+		"Average price": "Durchschnittspreis",
+		"Harmonic mean": "Harmonisches Mittel",
+		"Harmonic mean comparaison for all %s realms": "Vergleich des harmonischen Mittels für alle %s Server",
+    "Last 31 days": "Die letzten 31 Tage",
+    "Average Price": "Durchschnittspreis",
+    "Quantity Posted": "Angebotene Menge"
 	},
 	".chart": {
 		"decimalPoint": ",",
@@ -136,9 +136,9 @@
 	"locale_es_fullName": "Español",
 	"locale_ru_fullName": "Русский",
 	"Pct": "Prozent",
-	"Active": "Active",
-	"Last 7 days": "Last 7 days",
-	"Last 31 days": "Last 31 days",
-	"Per item": "Per item",
-	"Per stack": "Per stack"
+	"Active": "Aktiv",
+	"Last 7 days": "Letzten 7 Tage",
+	"Last 31 days": "Letzten 31 Tage",
+	"Per item": "Pro Stück",
+	"Per stack": "Pro Stapel"
 }
