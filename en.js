@@ -51,9 +51,9 @@
 		"Average price": "Average price",
 		"Harmonic mean": "Harmonic mean",
 		"Harmonic mean comparaison for all %s realms": "Harmonic mean comparaison for all %s realms",
-    "Last 31 days": "Last 31 days",
-    "Average Price": "Average Price",
-    "Quantity Posted": "Quantity Posted"
+		"Last 31 days": "Last 31 days",
+		"Average Price": "Average Price",
+		"Quantity Posted": "Quantity Posted"
 	},
 	".chart": {
 		"decimalPoint": ".",
@@ -140,5 +140,7 @@
 	"Last 31 days": "Last 31 days",
 	"Per item": "Per item",
 	"Per stack": "Per stack",
-	"Pct": "Pct"
+	"Pct": "Pct",
+	"Auctions posted per day and per hour (Last 31 days)": "Auctions posted per day and per hour (Last 31 days)",
+	"Date and time are based on the UTC/GMT timezone": "Date and time are based on the UTC/GMT timezone",
 }

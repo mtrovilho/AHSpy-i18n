@@ -140,5 +140,7 @@
 	"Last 7 days": "Letzten 7 Tage",
 	"Last 31 days": "Letzten 31 Tage",
 	"Per item": "Pro Stück",
-	"Per stack": "Pro Stapel"
+	"Per stack": "Pro Stapel",
+	"Auctions posted per day and per hour (Last 31 days)": "Auctions posted per day and per hour (Last 31 days)",
+	"Date and time are based on the UTC/GMT timezone": "Datum und Uhrzeit basieren auf der UTC/GMT-Zeitzone"
 }

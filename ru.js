@@ -140,5 +140,7 @@
 	"Last 7 days": "Last 7 days",
 	"Last 31 days": "Last 31 days",
 	"Per item": "Per item",
-	"Per stack": "Per stack"
+	"Per stack": "Per stack",
+	"Auctions posted per day and per hour (Last 31 days)": "Auctions posted per day and per hour (Last 31 days)",
+	"Date and time are based on the UTC/GMT timezone": "Дата и время, основаные на UTC/GMT часовом поясе"
 }
