@@ -54,7 +54,11 @@
 		"Average Price": "Average Price",
 		"Quantity Posted": "Quantity Posted",
 		"Last 7 days": "Last 7 days",
-		"Last 31 days": "Last 31 days"
+		"Last 31 days": "Last 31 days",
+		"%d item": {
+			"one": "%d item",
+			"other": "%d items"
+		}
 	},
 	".chart": {
 		"decimalPoint": ".",
@@ -143,5 +147,6 @@
 	"Per stack": "Per stack",
 	"Pct": "Pct",
 	"Auctions posted per day and per hour": "Auctions posted per day and per hour",
-	"Date and time are based on the UTC/GMT timezone": "Date and time are based on the UTC/GMT timezone"
+	"Date and time are based on the UTC/GMT timezone": "Date and time are based on the UTC/GMT timezone",
+	"Quantity posted per day and per hour": "Quantity posted per day and per hour"
 }

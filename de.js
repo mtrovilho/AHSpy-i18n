@@ -54,7 +54,11 @@
     "Average Price": "Durchschnittspreis",
     "Quantity Posted": "Angebotene Menge",
     "Last 7 days": "Letzten 7 Tage",
-  	"Last 31 days": "Letzten 31 Tage"
+  	"Last 31 days": "Letzten 31 Tage",
+		"%d item": {
+			"one": "%d item",
+			"other": "%d items"
+		}
 	},
 	".chart": {
 		"decimalPoint": ",",
@@ -142,6 +146,6 @@
 	"Last 31 days": "Letzten 31 Tage",
 	"Per item": "Pro Stück",
 	"Per stack": "Pro Stapel",
-	"Auctions posted per day and per hour": "Auctions posted per day and per hour",
+	"Quantity posted per day and per hour": "Quantity posted per day and per hour",
 	"Date and time are based on the UTC/GMT timezone": "Datum und Uhrzeit basieren auf der UTC/GMT-Zeitzone"
 }
