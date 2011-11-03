@@ -51,9 +51,10 @@
 		"Average price": "Durchschnittspreis",
 		"Harmonic mean": "Harmonisches Mittel",
 		"Harmonic mean comparaison for all %s realms": "Vergleich des harmonischen Mittels für alle %s Server",
-    "Last 31 days": "Die letzten 31 Tage",
     "Average Price": "Durchschnittspreis",
-    "Quantity Posted": "Angebotene Menge"
+    "Quantity Posted": "Angebotene Menge",
+    "Last 7 days": "Letzten 7 Tage",
+  	"Last 31 days": "Letzten 31 Tage"
 	},
 	".chart": {
 		"decimalPoint": ",",
@@ -141,6 +142,6 @@
 	"Last 31 days": "Letzten 31 Tage",
 	"Per item": "Pro Stück",
 	"Per stack": "Pro Stapel",
-	"Auctions posted per day and per hour (Last 31 days)": "Auctions posted per day and per hour (Last 31 days)",
+	"Auctions posted per day and per hour": "Auctions posted per day and per hour",
 	"Date and time are based on the UTC/GMT timezone": "Datum und Uhrzeit basieren auf der UTC/GMT-Zeitzone"
 }
