@@ -57,7 +57,9 @@
 		"%d item": {
 			"one": "%d item",
 			"other": "%d items"
-		}
+		},
+		"Time Left": "Time Left",
+		"First Seen": "First Seen"
 	},
 	".chart": {
 		"decimalPoint": ".",

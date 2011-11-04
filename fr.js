@@ -57,7 +57,9 @@
 		"%d item": {
 			"one": "%d objet",
 			"other": "%d objets"
-		}
+		},
+		"Time Left": "Temps restant",
+  	"First Seen": "First Seen"
 	},
 	".chart": {
 		"decimalPoint": ".",
