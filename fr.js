@@ -48,16 +48,16 @@
 		"Gold": "Or",
 		"Silver": "Argent",
 		"Copper": "Bronze",
-		"Average price": "Average price",
+		"Average price": "Prix moyen",
 		"Harmonic mean": "Harmonic mean",
 		"Harmonic mean comparaison for all %s realms": "Harmonic mean comparaison for all %s realms",
-    "Average Price": "Average Price",
-    "Quantity Posted": "Quantity Posted",
-  	"Last 7 days": "Last 7 days",
-  	"Last 31 days": "Last 31 days",
+    "Average Price": "Prix moyen",
+    "Quantity Posted": "Quantité posté",
+  	"Last 7 days": "Les 7 derniers jours",
+  	"Last 31 days": "Les 31 derniers jours",
 		"%d item": {
-			"one": "%d item",
-			"other": "%d items"
+			"one": "%d objet",
+			"other": "%d objets"
 		}
 	},
 	".chart": {
@@ -141,11 +141,11 @@
 	"locale_es_fullName": "Español",
 	"locale_ru_fullName": "Русский",
 	"Pct": "Pct",
-	"Active": "Active",
-	"Last 7 days": "Last 7 days",
-	"Last 31 days": "Last 31 days",
-	"Per item": "Per item",
-	"Per stack": "Per stack",
-	"Quantity posted per day and per hour": "Quantity posted per day and per hour",
+	"Active": "En ce moment",
+	"Last 7 days": "Les 7 derniers jours",
+	"Last 31 days": "Les 31 derniers jours",
+	"Per item": "Par objet",
+	"Per stack": "Par pile",
+	"Quantity posted per day and per hour": "Quantité posté par jour et par heure",
 	"Date and time are based on the UTC/GMT timezone": "Les dates et heures sont basées sur le fuseau horaire UTC/GMT"
 }
