@@ -26,20 +26,20 @@
 		"Quantity posted for sale on that day": "Количество выставленное на продажу в этот день",
 		"Auctions created on that day": "Создано аукционов в этот день",
 		"Not available": "Не доступно",
-    "%d item found in %%s": {
-      "one": "%d предмет найден в %%s",
-      "other": "%d предметов найдено в %%s"
-    },
-    "%d auction": {
-      "one": "%d аукцион",
-      "other": "%d аукционы"
-    },
-    "%d hidden": {
-      "one": "%d скрыт",
-      "other": "%d скрыты"
-    },
-    "There is no active auction for this item": "Нет активных аукционов для данной позиции",
-    "Last update: %s": "Последнее обновление: %s",
+		"%d item found in %%s": {
+			"one": "%d предмет найден в %%s",
+			"other": "%d предметов найдено в %%s"
+		},
+		"%d auction": {
+			"one": "%d аукцион",
+			"other": "%d аукционы"
+		},
+		"%d hidden": {
+			"one": "%d скрыт",
+			"other": "%d скрыты"
+		},
+		"There is no active auction for this item": "Нет активных аукционов для данной позиции",
+		"Last update: %s": "Последнее обновление: %s",
 		"Total bid": "Общая ставка",
 		"Total buyout": "Общий выкуп",
 		"Per item": "За предмет",
@@ -48,33 +48,32 @@
 		"Gold": "Золото",
 		"Silver": "Серебро",
 		"Copper": "Медь",
-		"Average price": "Average price",
-		"Harmonic mean": "Harmonic mean",
+		"Average Price": "Average Price",
+		"Harmonic Mean": "Harmonic Mean",
 		"Harmonic mean comparaison for all %s realms": "Harmonic mean comparaison for all %s realms",
-    "Average Price": "Average Price",
-    "Quantity Posted": "Quantity Posted",
-  	"Last 7 days": "Last 7 days",
-  	"Last 31 days": "Last 31 days",
+		"Quantity Posted": "Quantity Posted",
+		"Last 7 days": "Last 7 days",
+		"Last 31 days": "Last 31 days",
 		"%d item": {
 			"one": "%d item",
 			"other": "%d items"
 		}
 	},
 	".chart": {
-	  "decimalPoint": ".",
-    "downloadPNG": "Сохранить картинку в формате PNG",
-    "downloadJPEG": "Сохранить картинку в формате JPEG",
-    "downloadPDF": "Сохранить как документ PDF",
-    "downloadSVG": "Сохранитт в формате SVG",
-    "exportButtonTitle": "Экспортировать как растровое или векторное изображение",
-    "loading": "Загрузка данных",
-    "printButtonTitle": "Распечатать диаграмму",
-    "rangeSelectorFrom": "От",
-    "rangeSelectorTo": "До",
-    "rangeSelectorZoom": "Увеличение",
-    "resetZoom": "Сбросить масштаб",
-    "resetZoomTitle": "Восстановить масштаб 1:1",
-    "thousandsSep": ","
+		"decimalPoint": ".",
+		"downloadPNG": "Сохранить картинку в формате PNG",
+		"downloadJPEG": "Сохранить картинку в формате JPEG",
+		"downloadPDF": "Сохранить как документ PDF",
+		"downloadSVG": "Сохранитт в формате SVG",
+		"exportButtonTitle": "Экспортировать как растровое или векторное изображение",
+		"loading": "Загрузка данных",
+		"printButtonTitle": "Распечатать диаграмму",
+		"rangeSelectorFrom": "От",
+		"rangeSelectorTo": "До",
+		"rangeSelectorZoom": "Увеличение",
+		"resetZoom": "Сбросить масштаб",
+		"resetZoomTitle": "Восстановить масштаб 1:1",
+		"thousandsSep": ","
 	},
 	"Alliance": "Альянс",
 	"Click here to change the active realm": "Кликните здесь, чтобы сменить выбранный игровой мир",
@@ -108,7 +107,7 @@
 		"one": "%s предмет найден",
 		"other": "%s предметов найдено"
 	},
-	"Item name": "Название предмета",
+	"Item Name": "Название предмета",
 	"We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete.": "В настоящее время мы импортируем данные аукционов из нашей старой базы данных в новую. Диаграммы по некоторым позициям могут быть пустыми или неполными.",
 	"Use AHSpy in your language! Simply use the appropriate subdomain and you should be all set!": "Используйте AHSpy на Вашем языке! Просто выберите соответствующий поддомен и все готово!",
 	"These links will be integrated in a better navigation menu soon. If you wish to help us translate AHSpy, please take a look at our [GitHub project](https://github.com/Fuitad/AHSpy-i18n).": "Эти ссылки будут интегрированы в меню навигации более выгодном виде в ближайшее время. Если вы хотите помочь нам перевести AHSpy, пожалуйста, посмотрите на наш [GitHub проект](https://github.com/Fuitad/AHSpy-i18n).",
@@ -148,7 +147,6 @@
 	"Per stack": "Per stack",
 	"Quantity posted per day and per hour": "Quantity posted per day and per hour",
 	"Date and time are based on the UTC/GMT timezone": "Дата и время, основаные на UTC/GMT часовом поясе",
-	"Quantity posted per day and per hour": "Quantity posted per day and per hour",
 	"Auctions Created": "Auctions Created",
 	"Quantity Posted": "Quantity Posted",
 	"Minimum Price": "Minimum Price",
@@ -157,7 +155,10 @@
 	"Harmonic Mean": "Harmonic Mean",
 	"Standard Deviation": "Standard Deviation",
 	"Auctions": "Auctions",
-	"Average price": "Average price",
+	"Average Price": "Average Price",
 	"Check out the pricing info for %s on %s (%s) #WoW": "Check out the pricing info for %s on %s (%s) #WoW",
-	"Tweet about %s %s (%s)": "Tweet about %s %s (%s)"
+	"Tweet about %s on %s (%s)": "Tweet about %s on %s (%s)",
+	"Add this item to my watch list": "Add this item to my watch list",
+	"Market Price": "Market Price",
+	"Watch Item": "Watch Item"
 }

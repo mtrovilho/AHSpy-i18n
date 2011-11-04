@@ -26,20 +26,20 @@
 		"Quantity posted for sale on that day": "Quantity posted for sale on that day",
 		"Auctions created on that day": "Auctions created on that day",
 		"Not available": "Not available",
-    "%d item found in %%s": {
-      "one": "%d item found in %%s",
-      "other": "%d items found in %%s"
-    },
-    "%d auction": {
-      "one": "%d auction",
-      "other": "%d auctions"
-    },
-    "%d hidden": {
-      "one": "%d hidden",
-      "other": "%d hidden"
-    },
-    "There is no active auction for this item": "There is no active auction for this item",
-    "Last update: %s": "Last update: %s",
+		"%d item found in %%s": {
+			"one": "%d item found in %%s",
+			"other": "%d items found in %%s"
+		},
+		"%d auction": {
+			"one": "%d auction",
+			"other": "%d auctions"
+		},
+		"%d hidden": {
+			"one": "%d hidden",
+			"other": "%d hidden"
+		},
+		"There is no active auction for this item": "There is no active auction for this item",
+		"Last update: %s": "Last update: %s",
 		"Total bid": "Total bid",
 		"Total buyout": "Total buyout",
 		"Per item": "Per item",
@@ -48,33 +48,32 @@
 		"Gold": "Gold",
 		"Silver": "Silver",
 		"Copper": "Copper",
-		"Average price": "Average price",
-		"Harmonic mean": "Harmonic mean",
+		"Harmonic Mean": "Harmonic Mean",
 		"Harmonic mean comparaison for all %s realms": "Harmonic mean comparaison for all %s realms",
-    "Average Price": "Average Price",
-    "Quantity Posted": "Quantity Posted",
-  	"Last 7 days": "Last 7 days",
-  	"Last 31 days": "Last 31 days",
+		"Average Price": "Average Price",
+		"Quantity Posted": "Quantity Posted",
+		"Last 7 days": "Last 7 days",
+		"Last 31 days": "Last 31 days",
 		"%d item": {
 			"one": "%d item",
 			"other": "%d items"
 		}
 	},
 	".chart": {
-	  "decimalPoint": ".",
-    "downloadPNG": "Download PNG image",
-    "downloadJPEG": "Download JPEG image",
-    "downloadPDF": "Download PDF document",
-    "downloadSVG": "Download SVG vector image",
-    "exportButtonTitle": "Export to raster or vector image",
-    "loading": "Loading data",
-    "printButtonTitle": "Print the chart",
-    "rangeSelectorFrom": "From",
-    "rangeSelectorTo": "To",
-    "rangeSelectorZoom": "Zoom",
-    "resetZoom": "Reset zoom",
-    "resetZoomTitle": "Reset zoom level 1:1",
-    "thousandsSep": ","
+		"decimalPoint": ".",
+		"downloadPNG": "Download PNG image",
+		"downloadJPEG": "Download JPEG image",
+		"downloadPDF": "Download PDF document",
+		"downloadSVG": "Download SVG vector image",
+		"exportButtonTitle": "Export to raster or vector image",
+		"loading": "Loading data",
+		"printButtonTitle": "Print the chart",
+		"rangeSelectorFrom": "From",
+		"rangeSelectorTo": "To",
+		"rangeSelectorZoom": "Zoom",
+		"resetZoom": "Reset zoom",
+		"resetZoomTitle": "Reset zoom level 1:1",
+		"thousandsSep": ","
 	},
 	"Alliance": "Alliance",
 	"Click here to change the active realm": "Click here to change the active realm",
@@ -108,7 +107,7 @@
 		"one": "%s item found",
 		"other": "%s items found"
 	},
-	"Item name": "Item name",
+	"Item Name": "Item Name",
 	"We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete.": "We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete.",
 	"Use AHSpy in your language! Simply use the appropriate subdomain and you should be all set!": "Use AHSpy in your language! Simply use the appropriate subdomain and you should be all set!",
 	"These links will be integrated in a better navigation menu soon. If you wish to help us translate AHSpy, please take a look at our [GitHub project](https://github.com/Fuitad/AHSpy-i18n).": "These links will be integrated in a better navigation menu soon. If you wish to help us translate AHSpy, please take a look at our [GitHub project](https://github.com/Fuitad/AHSpy-i18n).",
@@ -140,13 +139,12 @@
 	"locale_de_fullName": "Deutsch",
 	"locale_es_fullName": "Español",
 	"locale_ru_fullName": "Русский",
-	"Pct": "Pct",
 	"Active": "Active",
 	"Last 7 days": "Last 7 days",
 	"Last 31 days": "Last 31 days",
 	"Per item": "Per item",
 	"Per stack": "Per stack",
-	"Quantity posted per day and per hour": "Quantity posted per day and per hour",
+	"Pct": "Pct",
 	"Date and time are based on the UTC/GMT timezone": "Date and time are based on the UTC/GMT timezone",
 	"Quantity posted per day and per hour": "Quantity posted per day and per hour",
 	"Auctions Created": "Auctions Created",
@@ -159,5 +157,8 @@
 	"Auctions": "Auctions",
 	"Average price": "Average price",
 	"Check out the pricing info for %s on %s (%s) #WoW": "Check out the pricing info for %s on %s (%s) #WoW",
-	"Tweet about %s %s (%s)": "Tweet about %s %s (%s)"
+	"Tweet about %s on %s (%s)": "Tweet about %s on %s (%s)",
+	"Add this item to my watch list": "Add this item to my watch list",
+	"Market Price": "Market Price",
+	"Watch Item": "Watch Item"
 }

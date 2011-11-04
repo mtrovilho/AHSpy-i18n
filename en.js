@@ -48,8 +48,7 @@
 		"Gold": "Gold",
 		"Silver": "Silver",
 		"Copper": "Copper",
-		"Average price": "Average price",
-		"Harmonic mean": "Harmonic mean",
+		"Harmonic Mean": "Harmonic Mean",
 		"Harmonic mean comparaison for all %s realms": "Harmonic mean comparaison for all %s realms",
 		"Average Price": "Average Price",
 		"Quantity Posted": "Quantity Posted",
@@ -108,7 +107,7 @@
 		"one": "%s item found",
 		"other": "%s items found"
 	},
-	"Item name": "Item name",
+	"Item Name": "Item Name",
 	"We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete.": "We're currently importing the auctions data from our old database into the new one. The charts for some items might be empty or incomplete.",
 	"Use AHSpy in your language! Simply use the appropriate subdomain and you should be all set!": "Use AHSpy in your language! Simply use the appropriate subdomain and you should be all set!",
 	"These links will be integrated in a better navigation menu soon. If you wish to help us translate AHSpy, please take a look at our [GitHub project](https://github.com/Fuitad/AHSpy-i18n).": "These links will be integrated in a better navigation menu soon. If you wish to help us translate AHSpy, please take a look at our [GitHub project](https://github.com/Fuitad/AHSpy-i18n).",
@@ -146,7 +145,6 @@
 	"Per item": "Per item",
 	"Per stack": "Per stack",
 	"Pct": "Pct",
-	"Auctions posted per day and per hour": "Auctions posted per day and per hour",
 	"Date and time are based on the UTC/GMT timezone": "Date and time are based on the UTC/GMT timezone",
 	"Quantity posted per day and per hour": "Quantity posted per day and per hour",
 	"Auctions Created": "Auctions Created",
@@ -159,5 +157,8 @@
 	"Auctions": "Auctions",
 	"Average price": "Average price",
 	"Check out the pricing info for %s on %s (%s) #WoW": "Check out the pricing info for %s on %s (%s) #WoW",
-	"Tweet about %s %s (%s)": "Tweet about %s %s (%s)"
+	"Tweet about %s on %s (%s)": "Tweet about %s on %s (%s)",
+	"Add this item to my watch list": "Add this item to my watch list",
+	"Market Price": "Market Price",
+	"Watch Item": "Watch Item"
 }
