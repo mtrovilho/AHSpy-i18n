@@ -148,5 +148,14 @@
 	"Pct": "Pct",
 	"Auctions posted per day and per hour": "Auctions posted per day and per hour",
 	"Date and time are based on the UTC/GMT timezone": "Date and time are based on the UTC/GMT timezone",
-	"Quantity posted per day and per hour": "Quantity posted per day and per hour"
+	"Quantity posted per day and per hour": "Quantity posted per day and per hour",
+	"Auctions Created": "Auctions Created",
+	"Quantity Posted": "Quantity Posted",
+	"Minimum Price": "Minimum Price",
+	"Maximum Price": "Maximum Price",
+	"Average Price": "Average Price",
+	"Harmonic Mean": "Harmonic Mean",
+	"Standard Deviation": "Standard Deviation",
+	"Auctions": "Auctions",
+	"Average price": "Average price"
 }

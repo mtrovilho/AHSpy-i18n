@@ -147,5 +147,15 @@
 	"Per item": "Par objet",
 	"Per stack": "Par pile",
 	"Quantity posted per day and per hour": "Quantité posté par jour et par heure",
-	"Date and time are based on the UTC/GMT timezone": "Les dates et heures sont basées sur le fuseau horaire UTC/GMT"
+	"Date and time are based on the UTC/GMT timezone": "Les dates et heures sont basées sur le fuseau horaire UTC/GMT",
+	"Quantity posted per day and per hour": "Quantity posted per day and per hour",
+	"Auctions Created": "Auctions Created",
+	"Quantity Posted": "Quantity Posted",
+	"Minimum Price": "Minimum Price",
+	"Maximum Price": "Maximum Price",
+	"Average Price": "Average Price",
+	"Harmonic Mean": "Harmonic Mean",
+	"Standard Deviation": "Standard Deviation",
+	"Auctions": "Auctions",
+	"Average price": "Average price"
 }
