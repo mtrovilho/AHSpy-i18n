@@ -157,5 +157,7 @@
 	"Harmonic Mean": "Harmonic Mean",
 	"Standard Deviation": "Standard Deviation",
 	"Auctions": "Auctions",
-	"Average price": "Average price"
+	"Average price": "Average price",
+	"Check out the pricing info for %s on %s (%s) #WoW": "Check out the pricing info for %s on %s (%s) #WoW",
+	"Tweet about %s %s (%s)": "Tweet about %s %s (%s)"
 }
