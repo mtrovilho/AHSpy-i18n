@@ -49,7 +49,7 @@
 		"Silver": "Argent",
 		"Copper": "Bronze",
 		"Harmonic Mean": "Moyenne Harmonique",
-		"Harmonic mean comparaison for all %s realms": "Comparaison de la moyenne Harmonique pour les royaumes %s",
+		"Harmonic mean comparaison for all %s realms": "Comparaison de la moyenne harmonique pour les royaumes %s",
     "Average Price": "Prix moyen",
     "Quantity Posted": "Quantité posté",
   	"Last 7 days": "Les 7 derniers jours",
@@ -156,7 +156,7 @@
 	"Auctions": "Enchères",
 	"Average Price": "Prix Moyen",
 	"Check out the pricing info for %s on %s (%s) #WoW": "Vérifiez les prix de %s sur %s (%s) #WoW",
-	"Tweet about %s on %s (%s)": "Tweet about %s on %s (%s)",
+	"Tweet about %s on %s (%s)": "Twittez à propos de %s sur %s (%s)",
 	"Add this item to my watch list": "Ajouter cet objet dans ma liste à surveiller",
 	"Market Price": "Prix du marché",
 	"Watch Item": "Surveiller l'objet"
