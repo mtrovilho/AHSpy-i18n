@@ -161,5 +161,8 @@
 	"Tweet about %s on %s (%s)": "Twittez à propos de %s sur %s (%s)",
 	"Add this item to my watch list": "Ajouter cet objet dans ma liste à surveiller",
 	"Market Price": "Prix du marché",
-	"Watch Item": "Surveiller l'objet"
+	"Watch Item": "Surveiller l'objet",
+	"Region": "Région",
+	"Total": "Total",
+	"Average Market Price": "Prix du marché moyen"
 }

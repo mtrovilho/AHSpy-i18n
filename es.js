@@ -162,5 +162,8 @@
 	"Tweet about %s on %s (%s)": "Tweet about %s on %s (%s)",
 	"Add this item to my watch list": "Add this item to my watch list",
 	"Market Price": "Market Price",
-	"Watch Item": "Watch Item"
+	"Watch Item": "Watch Item",
+	"Region": "Region",
+	"Total": "Total",
+	"Average Market Price": "Average Market Price"
 }
