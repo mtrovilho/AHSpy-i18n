@@ -59,7 +59,7 @@
 			"other": "%d Gegenstände"
 		},
 		"Time Left": "Restzeit",
-  	"First Seen": "First Seen"
+  	"First Seen": "Zuerst gesehen"
 	},
 	".chart": {
 		"decimalPoint": ",",
@@ -163,6 +163,6 @@
 	"Market Price": "Marktpreis",
 	"Watch Item": "Gegenstand beobachten",
 	"Region": "Region",
-	"Total": "Total",
-	"Average Market Price": "Average Market Price"
+	"Total": "Gesamt",
+	"Average Market Price": "Durchschnittspreis"
 }
