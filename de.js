@@ -58,7 +58,7 @@
 			"other": "%d Gegenstände"
 		},
 		"Time Left": "Restzeit",
-		"First Seen": "First Seen",
+    "First Seen": "Zuerst gesehen",
 		"Auctions": "Auktionen",
   	"%d auctions": {
 			"one": "%d auction",
@@ -169,7 +169,7 @@
 	"Market Price": "Marktpreis",
 	"Watch Item": "Gegenstand beobachten",
 	"Region": "Region",
-	"Total": "Total",
-	"Average Market Price": "Average Market Price",
+  "Total": "Gesamt",
+  "Average Market Price": "Durchschnittspreis",
 	"Useful information about the World of Warcraft auction house and economy": "Useful information about the World of Warcraft auction house and economy"
 }
