@@ -29,10 +29,6 @@
 			"one": "%d objet trouvé dans %%s",
 			"other": "%d objets trouvés dans %%s"
 		},
-		"%d auction": {
-			"one": "%d enchère",
-			"other": "%d enchères"
-		},
 		"%d hidden": {
 			"one": "%d caché",
 			"other": "%d cachés"
@@ -53,16 +49,16 @@
 		"Quantity Posted": "Quantité posté",
 		"Last 7 days": "Les 7 derniers jours",
 		"Last 31 days": "Les 31 derniers jours",
-		"%d item": {
-			"one": "%d objet",
-			"other": "%d objets"
-		},
 		"Time Left": "Temps restant",
 		"First Seen": "Vu pour la première fois",
 		"Auctions": "Enchères",
 		"%d auctions": {
 			"one": "%d enchère",
 			"other": "%d enchères"
+		},
+		"%d item": {
+			"one": "%d objet",
+			"other": "%d objets"
 		},
 		"Minimum Price": "Prix minimum",
 		"Maximum Price": "Prix maximum"
@@ -161,12 +157,16 @@
 	"Maximum Price": "Prix Maximum",
 	"Harmonic Mean": "Moyenne Harmonique",
 	"Standard Deviation": "Écart Type",
-  "Auctions": "Enchères",
-	"%d auctions": {
+	"Auctions": "Enchères",
+	"Average Price": "Prix Moyen",
+  "%d item": {
+		"one": "%d objet",
+		"other": "%d objets"
+	},
+	"%d auction": {
 		"one": "%d enchère",
 		"other": "%d enchères"
 	},
-	"Average Price": "Prix Moyen",
 	"Check out the pricing info for %s on %s (%s) #WoW": "Vérifiez les prix de %s sur %s (%s) #WoW",
 	"Tweet about %s on %s (%s)": "Twittez à propos de %s sur %s (%s)",
 	"Add this item to my watch list": "Ajouter cet objet dans ma liste à surveiller",

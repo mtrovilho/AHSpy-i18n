@@ -29,10 +29,6 @@
 			"one": "%d item found in %%s",
 			"other": "%d items found in %%s"
 		},
-		"%d auction": {
-			"one": "%d auction",
-			"other": "%d auctions"
-		},
 		"%d hidden": {
 			"one": "%d hidden",
 			"other": "%d hidden"
@@ -53,13 +49,17 @@
 		"Quantity Posted": "Quantity Posted",
 		"Last 7 days": "Last 7 days",
 		"Last 31 days": "Last 31 days",
+		"%d auction": {
+			"one": "%d auction",
+			"other": "%d auctions"
+		},
 		"%d item": {
 			"one": "%d item",
 			"other": "%d items"
 		},
-  	"Time Left": "Time Left",
-  	"First Seen": "First Seen",
-  	"Auctions": "Auctions",
+		"Time Left": "Time Left",
+		"First Seen": "First Seen",
+		"Auctions": "Auctions",
   	"%d auctions": {
 			"one": "%d auction",
 			"other": "%d auctions"
@@ -166,6 +166,10 @@
 	"%d auctions": {
 		"one": "%d auction",
 		"other": "%d auctions"
+	},
+	"%d item": {
+		"one": "%d item",
+		"other": "%d items"
 	},
 	"Average price": "Average price",
 	"Check out the pricing info for %s on %s (%s) #WoW": "Check out the pricing info for %s on %s (%s) #WoW",

@@ -29,10 +29,6 @@
 			"one": "%d предмет найден в %%s",
 			"other": "%d предметов найдено в %%s"
 		},
-		"%d auction": {
-			"one": "%d аукцион",
-			"other": "%d аукционы"
-		},
 		"%d hidden": {
 			"one": "%d скрыт",
 			"other": "%d скрыты"
@@ -53,9 +49,13 @@
 		"Quantity Posted": "Quantity Posted",
 		"Last 7 days": "Last 7 days",
 		"Last 31 days": "Last 31 days",
+		"%d auction": {
+			"one": "%d аукцион",
+			"other": "%d аукционы"
+		},
 		"%d item": {
-			"one": "%d item",
-			"other": "%d items"
+			"one": "%d предмет",
+			"other": "%d предметов"
 		},
 		"Time Left": "Осталось времени",
   	"First Seen": "First Seen",
@@ -163,9 +163,13 @@
 	"Harmonic Mean": "Harmonic Mean",
 	"Standard Deviation": "Standard Deviation",
   "Auctions": "Аукционы",
-	"%d auctions": {
-		"one": "%d auction",
-		"other": "%d auctions"
+	"%d auction": {
+		"one": "%d аукцион",
+		"other": "%d аукционы"
+	},
+	"%d item": {
+		"one": "%d предмет",
+		"other": "%d предметов"
 	},
 	"Average Price": "Average Price",
 	"Check out the pricing info for %s on %s (%s) #WoW": "Check out the pricing info for %s on %s (%s) #WoW",

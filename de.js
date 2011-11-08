@@ -29,10 +29,6 @@
 			"one": "%d Gegenstand gefunden in %%s",
 			"other": "%d Gegenstände gefunden in %%s"
 		},
-		"%d auction": {
-			"one": "%d Auktion",
-			"other": "%d Auktionen"
-		},
 		"%d hidden": {
 			"one": "%d versteckt",
 			"other": "%d versteckt"
@@ -53,6 +49,10 @@
 		"Quantity Posted": "Angebotene Menge",
 		"Last 7 days": "In den letzten 7 Tagen",
 		"Last 31 days": "In den letzten 31 Tagen",
+		"%d auction": {
+			"one": "%d Auktion",
+			"other": "%d Auktionen"
+		},
 		"%d item": {
 			"one": "%d Gegenstand",
 			"other": "%d Gegenstände"
@@ -60,10 +60,6 @@
 		"Time Left": "Restzeit",
     "First Seen": "Zuerst gesehen",
 		"Auctions": "Auktionen",
-  	"%d auctions": {
-			"one": "%d auction",
-			"other": "%d auctions"
-		},
     "Minimum Price": "Minimum Price",
     "Maximum Price": "Maximum Price"
 	},
@@ -163,9 +159,13 @@
 	"Harmonic Mean": "Harmonisches Mittel",
 	"Standard Deviation": "Standardabweichung",
   "Auctions": "Auktionen",
-	"%d auctions": {
-		"one": "%d auction",
-		"other": "%d auctions"
+  "%d auction": {
+		"one": "%d Auktion",
+		"other": "%d Auktionen"
+	},
+	"%d item": {
+		"one": "%d Gegenstand",
+		"other": "%d Gegenstände"
 	},
 	"Check out the pricing info for %s on %s (%s) #WoW": "Seht euch %s an auf %s (%s) #WoW",
 	"Tweet about %s on %s (%s)": "Twitter über %s auf %s (%s)",
