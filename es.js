@@ -162,7 +162,11 @@
 	"Average Price": "Average Price",
 	"Harmonic Mean": "Harmonic Mean",
 	"Standard Deviation": "Standard Deviation",
-	"Auctions": "Auctions",
+  "Auctions": "Auctions",
+	"%d auctions": {
+		"one": "%d auction",
+		"other": "%d auctions"
+	},
 	"Average price": "Average price",
 	"Check out the pricing info for %s on %s (%s) #WoW": "Check out the pricing info for %s on %s (%s) #WoW",
 	"Tweet about %s on %s (%s)": "Tweet about %s on %s (%s)",

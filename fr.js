@@ -161,7 +161,11 @@
 	"Maximum Price": "Prix Maximum",
 	"Harmonic Mean": "Moyenne Harmonique",
 	"Standard Deviation": "Écart Type",
-	"Auctions": "Enchères",
+  "Auctions": "Enchères",
+	"%d auctions": {
+		"one": "%d enchère",
+		"other": "%d enchères"
+	},
 	"Average Price": "Prix Moyen",
 	"Check out the pricing info for %s on %s (%s) #WoW": "Vérifiez les prix de %s sur %s (%s) #WoW",
 	"Tweet about %s on %s (%s)": "Twittez à propos de %s sur %s (%s)",

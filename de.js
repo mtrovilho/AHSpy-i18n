@@ -162,7 +162,11 @@
 	"Average Price": "Durchschnittspreis",
 	"Harmonic Mean": "Harmonisches Mittel",
 	"Standard Deviation": "Standardabweichung",
-	"Auctions": "Auktionen",
+  "Auctions": "Auktionen",
+	"%d auctions": {
+		"one": "%d auction",
+		"other": "%d auctions"
+	},
 	"Check out the pricing info for %s on %s (%s) #WoW": "Seht euch %s an auf %s (%s) #WoW",
 	"Tweet about %s on %s (%s)": "Twitter über %s auf %s (%s)",
 	"Add this item to my watch list": "Diesen Gegenstand zu meiner Beobachtungsliste hinzufügen",
