@@ -4,7 +4,6 @@
 		"Average bid": "Средняя ставка",
 		"Average buyout": "Средний выкуп",
 		"Quantity": "Количество",
-		"Auctions": "Аукционы",
 		"Average price per item for %s on %s (%s) - %s": "Средняя цена за предмет %s из %s (%s) - %s",
 		"Alliance": "Альянс",
 		"Horde": "Орда",
@@ -59,7 +58,14 @@
 			"other": "%d items"
 		},
 		"Time Left": "Осталось времени",
-  	"First Seen": "First Seen"
+  	"First Seen": "First Seen",
+  	"Auctions": "Аукционы",
+  	"%d auctions": {
+			"one": "%d auction",
+			"other": "%d auctions"
+		},
+    "Minimum Price": "Minimum Price",
+    "Maximum Price": "Maximum Price"
 	},
 	".chart": {
 		"decimalPoint": ".",
@@ -165,5 +171,6 @@
 	"Watch Item": "Watch Item",
 	"Region": "Region",
 	"Total": "Total",
-	"Average Market Price": "Average Market Price"
+	"Average Market Price": "Average Market Price",
+	"Useful information about the World of Warcraft auction house and economy": "Useful information about the World of Warcraft auction house and economy"
 }

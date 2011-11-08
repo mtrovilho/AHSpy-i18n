@@ -4,7 +4,6 @@
 		"Average bid": "Durchschnittsgebot",
 		"Average buyout": "Durchschnittskaufpreis",
 		"Quantity": "Menge",
-		"Auctions": "Auktionen",
 		"Average price per item for %s on %s (%s) - %s": "Durchschnittspreis für %s auf %s (%s) - %s",
 		"Alliance": "Allianz",
 		"Horde": "Horde",
@@ -59,7 +58,14 @@
 			"other": "%d Gegenstände"
 		},
 		"Time Left": "Restzeit",
-  	"First Seen": "First Seen"
+		"First Seen": "First Seen",
+		"Auctions": "Auktionen",
+  	"%d auctions": {
+			"one": "%d auction",
+			"other": "%d auctions"
+		},
+    "Minimum Price": "Minimum Price",
+    "Maximum Price": "Maximum Price"
 	},
 	".chart": {
 		"decimalPoint": ",",
@@ -164,5 +170,6 @@
 	"Watch Item": "Gegenstand beobachten",
 	"Region": "Region",
 	"Total": "Total",
-	"Average Market Price": "Average Market Price"
+	"Average Market Price": "Average Market Price",
+	"Useful information about the World of Warcraft auction house and economy": "Useful information about the World of Warcraft auction house and economy"
 }

@@ -4,7 +4,6 @@
 		"Average bid": "Enchère moyenne",
 		"Average buyout": "Achat immédiat moyen",
 		"Quantity": "Quantité",
-		"Auctions": "Enchères",
 		"Average price per item for %s on %s (%s) - %s": "Prix moyen par objet pour %s sur %s (%s) - %s",
 		"Alliance": "Alliance",
 		"Horde": "Horde",
@@ -50,16 +49,23 @@
 		"Copper": "Bronze",
 		"Harmonic Mean": "Moyenne Harmonique",
 		"Harmonic mean comparaison for all %s realms": "Comparaison de la moyenne harmonique pour les royaumes %s",
-    "Average Price": "Prix moyen",
-    "Quantity Posted": "Quantité posté",
-  	"Last 7 days": "Les 7 derniers jours",
-  	"Last 31 days": "Les 31 derniers jours",
+		"Average Price": "Prix moyen",
+		"Quantity Posted": "Quantité posté",
+		"Last 7 days": "Les 7 derniers jours",
+		"Last 31 days": "Les 31 derniers jours",
 		"%d item": {
 			"one": "%d objet",
 			"other": "%d objets"
 		},
 		"Time Left": "Temps restant",
-  	"First Seen": "First Seen"
+		"First Seen": "Vu pour la première fois",
+		"Auctions": "Enchères",
+		"%d auctions": {
+			"one": "%d enchère",
+			"other": "%d enchères"
+		},
+		"Minimum Price": "Prix minimum",
+		"Maximum Price": "Prix maximum"
 	},
 	".chart": {
 		"decimalPoint": ".",
@@ -164,5 +170,6 @@
 	"Watch Item": "Surveiller l'objet",
 	"Region": "Région",
 	"Total": "Total",
-	"Average Market Price": "Prix du marché moyen"
+	"Average Market Price": "Prix du marché moyen",
+	"Useful information about the World of Warcraft auction house and economy": "Useful information about the World of Warcraft auction house and economy"
 }
