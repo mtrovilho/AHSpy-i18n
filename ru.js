@@ -53,9 +53,9 @@
 			"one": "%d аукцион",
 			"other": "%d аукционы"
 		},
-		"%d item": {
-			"one": "%d предмет",
-			"other": "%d предметов"
+		"<span class=\"numfor\">%d</span> item": {
+			"one": "<span class=\"numfor\">%d</span> предмет",
+			"other": "<span class=\"numfor\">%d</span> предметов"
 		},
 		"Time Left": "Осталось времени",
   	"First Seen": "First Seen",
@@ -65,7 +65,9 @@
 			"other": "%d auctions"
 		},
     "Minimum Price": "Minimum Price",
-    "Maximum Price": "Maximum Price"
+    "Maximum Price": "Maximum Price",
+		"decimal_separator": ",",
+		"thousands_separator": " "
 	},
 	".chart": {
 		"decimalPoint": ".",
@@ -124,7 +126,7 @@
 	"Comments powered by": "Комментарии основаны на",
 	"No item found using your search criteria.": "Не найден ни один предмет по Вашим критериям.",
 	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "Предмета не существует, или не продается на аукционе или мы его еще ни разу не видели.",
-	"Item #%s does not exist in our database or is invalid.": "Предмет #%s не существует в нашей базе данных или указан не правильно.",
+	"Item %d does not exist in our database or is invalid.": "Предмет #%d не существует в нашей базе данных или указан не правильно.",
 	"Realm %s (%s) does not exist in our database or is invalid.": "Игровой мир %s (%s) не найден в нашей базе данных или указан не правильно.",
 	"If you believe that this is an error, please let us know!": "Если Вы уверены, что это ошибка, сообщите нам!",
 	"Average bid per item - Last month": "Среденяя ставка за предмет - Последний месяц",
@@ -180,5 +182,8 @@
 	"Region": "Region",
 	"Total": "Total",
 	"Average Market Price": "Average Market Price",
-	"Useful information about the World of Warcraft auction house and economy": "Useful information about the World of Warcraft auction house and economy"
+	"Useful information about the World of Warcraft auction house and economy": "Useful information about the World of Warcraft auction house and economy",
+	"Summary": "Summary",
+	"View global page": "View global page",
+	"Item name": "Item name"
 }

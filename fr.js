@@ -52,16 +52,18 @@
 		"Time Left": "Temps restant",
 		"First Seen": "Vu pour la première fois",
 		"Auctions": "Enchères",
-		"%d auctions": {
+		"%d auction": {
 			"one": "%d enchère",
 			"other": "%d enchères"
 		},
-		"%d item": {
-			"one": "%d objet",
-			"other": "%d objets"
+		"<span class=\"numfor\">%d</span> item": {
+			"one": "<span class=\"numfor\">%d</span> objet",
+			"other": "<span class=\"numfor\">%d</span> objets"
 		},
 		"Minimum Price": "Prix minimum",
-		"Maximum Price": "Prix maximum"
+		"Maximum Price": "Prix maximum",
+		"decimal_separator": ",",
+		"thousands_separator": " "
 	},
 	".chart": {
 		"decimalPoint": ".",
@@ -120,7 +122,7 @@
 	"Comments powered by": "Commentaires propulsés par",
 	"No item found using your search criteria.": "Aucun objet trouvé avec ce critère de recherche.",
 	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "L'objet recherché n'existe pas. Soit parce qu'il ne peux pas être vendu à l'hôtel des ventes soit parce qu'il n'a pas encore été vu au moins une fois.",
-	"Item #%s does not exist in our database or is invalid.": "L’objet #%s n’existe pas dans notre base de données ou est invalide.",
+	"Item %d does not exist in our database or is invalid.": "L’objet %d n’existe pas dans notre base de données ou est invalide.",	
 	"Realm %s (%s) does not exist in our database or is invalid.": "Le royaume %s (%s) n’existe pas dans notre base de données ou est invalide.",
 	"If you believe that this is an error, please let us know!": "Si vous pensez que c’est une erreur, merci de nous le faire savoir !",
 	"Average bid per item - Last month": "Enchère moyenne par objet - Le mois dernier",
@@ -159,7 +161,7 @@
 	"Standard Deviation": "Écart Type",
 	"Auctions": "Enchères",
 	"Average Price": "Prix Moyen",
-  "%d item": {
+	"%d item": {
 		"one": "%d objet",
 		"other": "%d objets"
 	},
@@ -175,5 +177,8 @@
 	"Region": "Région",
 	"Total": "Total",
 	"Average Market Price": "Prix du marché moyen",
-	"Useful information about the World of Warcraft auction house and economy": "Useful information about the World of Warcraft auction house and economy"
+	"Useful information about the World of Warcraft auction house and economy": "Useful information about the World of Warcraft auction house and economy",
+	"Summary": "Summary",
+	"View global page": "View global page",
+	"Item name": "Item name"
 }

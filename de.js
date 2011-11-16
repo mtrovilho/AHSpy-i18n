@@ -53,9 +53,9 @@
 			"one": "%d Auktion",
 			"other": "%d Auktionen"
 		},
-		"%d item": {
-			"one": "%d Gegenstand",
-			"other": "%d Gegenstände"
+		"<span class=\"numfor\">%d</span> item": {
+			"one": "<span class=\"numfor\">%d</span> Gegenstand",
+			"other": "<span class=\"numfor\">%d</span> Gegenstände"
 		},
 		"Time Left": "Restzeit",
     "First Seen": "Zuerst gesehen",
@@ -77,7 +77,8 @@
 		"rangeSelectorZoom": "Zoom",
 		"resetZoom": "Zoom zurücksetzen",
 		"resetZoomTitle": "Zoomstufe 1:1 zurücksetzen",
-		"thousandsSep": "."
+		"decimal_separator": ",",
+		"thousands_separator": "."
 	},
 	"Click here to change the active realm": "Hier klicken, um den aktiven Server zu ändern",
 	"Check %s at Wowhead": "%s bei Wowhead überprüfen",
@@ -120,7 +121,7 @@
 	"Comments powered by": "Kommentarsystem von",
 	"No item found using your search criteria.": "Kein Gegenstand entspricht deinen Suchkriterien.",
 	"The item either doesn't exist, it can't be sold on the auction house or we just haven't seen it at least once yet.": "Der Gegenstand existiert entweder nicht, er kann nicht gehandelt werden oder wir haben ihn einfach noch nie gesehen.",
-	"Item #%s does not exist in our database or is invalid.": "Gegenstands-ID %s existiert in unserer Datenbank nicht oder ist ungültig.",
+	"Item %d does not exist in our database or is invalid.": "Gegenstands-ID %d existiert in unserer Datenbank nicht oder ist ungültig.",
 	"Realm %s (%s) does not exist in our database or is invalid.": "Der Server %s (%s) existiert in unserer Datenbank nicht oder ist ungültig.",
 	"If you believe that this is an error, please let us know!": "Wenn du denkst, dass das ein Fehler ist, schreib uns bitte!",
 	"Average bid per item - Last month": "Durchschnittsgebot - letzter Monat",
@@ -175,5 +176,8 @@
 	"Region": "Region",
   "Total": "Gesamt",
   "Average Market Price": "Durchschnittspreis",
-	"Useful information about the World of Warcraft auction house and economy": "Useful information about the World of Warcraft auction house and economy"
+	"Useful information about the World of Warcraft auction house and economy": "Useful information about the World of Warcraft auction house and economy",
+	"Summary": "Summary",
+	"View global page": "View global page",
+	"Item name": "Item name"
 }
